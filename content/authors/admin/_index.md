@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:eleanor.elizabeth.j@gmail.com>'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:eleanor.elizabeth.j@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/EE_Jackson
@@ -68,9 +68,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+- Researchers
+- Visitors
 ---
 
 I am a PhD student in the NERC Centre for Doctoral Training in Quantitative and Modelling Skills in Ecology and Evolution (QMEE). Investigating the role of pre-dispersal insect seed predators in maintaining tropical plant diversity in Panama. Using long-term datasets of seed rain to model community dynamics and collecting information on individual plant species and their enemies in the field.
