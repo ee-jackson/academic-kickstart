@@ -24,16 +24,16 @@ date_format = "Jan 2006"
   location = "London"
   date_start = "2018-09-01"
   date_end = "2019-10-01"
-  description = """Data analyst for the Nature publishing team."""
+  description = """Data analyst for the Nature publishing team"""
 
 [[experience]]
   title = "Research Assistant"
   company = "University of Hamburg"
   company_url = ""
   location = "Hamburg"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Locum research assistant in the marine plankton ecology & evolution group of Professor Elisa Schaum."""
+  date_start = "2018-04-01"
+  date_end = "2018-09-01"
+  description = """Locum research assistant in the marine plankton ecology & evolution group of Professor Elisa Schaum"""
 
 [[experience]]
   title = "Research Assistant"
@@ -42,5 +42,5 @@ date_format = "Jan 2006"
   location = "Penryn"
   date_start = "2016-05-01"
   date_end = "2016-09-01"
-  description = """Research assistant in the aquatic evolution & ecology group of Professor Gabriel Yvon- Durocher."""
+  description = """Research assistant in the aquatic evolution & ecology group of Professor Gabriel Yvon- Durocher"""
 +++
