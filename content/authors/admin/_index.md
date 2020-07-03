@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in the ecological and evolutionary responses of communities in the conext of envrionmental change.
 
 interests:
 - Community Ecology
-- Computational Linguistics
-- Information Retrieval
+- Eco-evo
+- Global Change
 
 education:
   courses:
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:eleanor.elizabeth.j@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:e.e.jackson@pgr.reading.ac.uk"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/EE_Jackson
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the NERC Centre for Doctoral Training in Quantitative and Modelling Skills in Ecology and Evolution (QMEE). Investigating the role of pre-dispersal insect seed predators in maintaining tropical plant diversity in Panama. Using long-term datasets of seed rain to model community dynamics and collecting information on individual plant species and their enemies in the field.
+I am a PhD student in the NERC Centre for Doctoral Training in Quantitative and Modelling Skills in Ecology and Evolution (QMEE). Currently investigating the role of pre-dispersal insect seed predators in maintaining tropical plant diversity in Panama. Using long-term datasets of seed rain to model community dynamics and collecting information on individual plant species and their enemies in the field.
