@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "[Psychotria racemosa immature-fruit photographed as part of STRI's Environmental Science Program. Creator: Steven Paton, Source: STRI](https://biogeodb.stri.si.edu/bioinformatics/dfm/metas/view/10045)"
-  focal_point: "BottomLeft"
+  caption: "[_Psychotria racemosa_ immature-fruit photographed as part of STRI's Environmental Science Program. Creator: Steven Paton, Source: STRI](https://biogeodb.stri.si.edu/bioinformatics/dfm/metas/view/10045)"
+  focal_point: "TopLeft"
   preview_only: false
 
 # Custom links (optional).
