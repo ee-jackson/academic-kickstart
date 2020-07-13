@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in the ecological and evolutionary responses of of communities in the context of envrionmental change.
+bio: Interested in the ecological and evolutionary responses of of communities in the context of environmental change.
 
 interests:
 - Community Ecology

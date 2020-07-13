@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "PhD student. Interested in the ecological and evolutionary responses of of communities in the context of envrionmental change."
+description = "PhD student. Interested in the ecological and evolutionary responses of of communities in the context of environmental change."
 
 ############################
 ## Site Features
