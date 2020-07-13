@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in the ecological and evolutionary responses of communities in the conext of envrionmental change.
+bio: Interested in the ecological and evolutionary responses of of communities in the context of envrionmental change.
 
 interests:
 - Community Ecology
-- Eco-evo
+- Eco‐evolutionary Dynamics
 - Global Change
 
 education:
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the NERC Centre for Doctoral Training in Quantitative and Modelling Skills in Ecology and Evolution (QMEE). Currently investigating the role of pre-dispersal insect seed predators in maintaining tropical plant diversity in Panama. Using long-term datasets of seed rain to model community dynamics and collecting information on individual plant species and their enemies in the field.
+I am a PhD student in the NERC Centre for Doctoral Training in Quantitative and Modelling Skills in Ecology and Evolution (QMEE). I am broadly interested in community ecology, the compexities of ecosystems and how they respond to change.  My current research focuses on the role of pre-dispersal insect seed predators in maintaining tropical plant diversity in Panama. I am using using long-term datasets of seed rain to model community dynamics and collecting information on individual plant species and their enemies in the field.
