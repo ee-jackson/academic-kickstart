@@ -7,7 +7,6 @@ authors: ["admin"]
 tags: ["Tropical ecology", "Community ecology"]
 categories: []
 date: 2020-07-13T15:54:53+01:00
-draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
