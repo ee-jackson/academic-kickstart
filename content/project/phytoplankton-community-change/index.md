@@ -16,8 +16,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "A snapshot of the phytoplankton community from an experimentaly heated pond in October 2015"
+  focal_point: "Bottom"
   preview_only: false
 
 # Custom links (optional).
@@ -58,15 +58,13 @@ Previous work done by the lab group had shown that the phytoplankton _Chlorella 
 
 The project used a semi-natural system of 20 man-made ponds in Dorset. The ponds were built 10 years prior and seeded with an innoculum of common phytoplankton species. Half of the ponds are kept at 3-5 degrees warmer than ambient temperature to simulate the warmer ponds we might see in the future. The idea was to see if a community arose in the warmed ponds that was better able to deal with higher temperatures. Every month for a year we visited the ponds and returned back to the lab with 20 bottles of pond water sloshing around in the boot of the car. 
 
-{{< figure src="winterPonds.jpeg" title="The ponds in the winter 2015. The pond closest to the camera has been experimentally heated - no ice has formed on the surface" numbered="false" lightbox="true" >}}
+{{< figure src="winterPonds.jpeg" title="The ponds in the winter of 2015. The pond closest to the camera has been experimentally heated - no ice has formed on the surface" numbered="false" lightbox="true" >}}
 
 We categorised the thermal metabolic niche of the phytoplankton communities using the dreaded Oxy-lab\* (how fast do they produce O2 at different temperatures?) and characterised the communities using flow cytometry and genetic barcoding (what kinds of plankton are in each pond and how many of each?). We also grew the communities at different temperatures to test if they were better adapted to (reproduced faster in) warmer or cooler climes. 
 
 Beacuse we did this over the course of a year we would not only be able to look at differences between heated and ambient pond communities but also see how their responses to temperature changed with the seasons.
 
 This project produced a slew of data, which is still being probed. From the subset that I analysed for my undergraduate project (Oxy-lab and flow cytometry data for 6 months) we found that the communities were more different from month to month than between heated and ambient treatments. This is really cool. Let me explain.
-
-{{< figure src="pond13.jpg" title="A snapshot of the phytoplankton community from an experimentaly heated pond in October 2015" numbered="false" lightbox="true" >}}
 
 So, as I mentioned above, we wanted to see if __one__ phytoplankton species adapting to temperature would be the same as __many__ phytoplankton species adapting to temperature. A single species in isolation can adapt via rapid evolution but we didn't find any evidence of this in our pond communities. There was no difference in thermal metabolic niche between ambient and heated communities when pooled across months. This suggested to us that there was something more complicated going on.
 

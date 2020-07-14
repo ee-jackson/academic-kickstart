@@ -13,8 +13,8 @@ tags: ["Pre-print"]
 
 image:
   placement: 1
-  caption: "A mixed fresh-water phytoplankton community from an experimental pond in 2015"
-  focal_point: "Center"
+  caption: ""
+  focal_point: ""
   preview_only: false
 ---
 
