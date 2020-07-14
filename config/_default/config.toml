@@ -14,7 +14,7 @@ baseurl = "https://ee-jackson.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; Eleanor Jackson {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-53253018-2"
