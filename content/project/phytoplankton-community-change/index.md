@@ -40,6 +40,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+## Why phytoplankton?
 
 This was my very first research project and it kindled my curiosity in the complexity of ecosystems.
 
@@ -56,6 +57,8 @@ Being so sensitive to temperature you may wonder how phytoplankton will fare on 
 
 Previous work done by the lab group had shown that the phytoplankton _Chlorella vulgaris_, in isolation, could change it's thermal metabolic niche in sync with rising temperatures through rapid evolution [(Padfield _et al_. 2016)](https://doi.org/10.1111/ele.12545). I was joining a project which would try to test if this response scaled up to whole communities of different phytoplankton species living together.
 
+## What did we do?
+
 The project used a semi-natural system of 20 man-made ponds in Dorset. The ponds were built 10 years prior and seeded with an innoculum of common phytoplankton species. Half of the ponds are kept at 3-5 degrees warmer than ambient temperature to simulate the warmer ponds we might see in the future. The idea was to see if a community arose in the warmed ponds that was better able to deal with higher temperatures. Every month for a year we visited the ponds and returned back to the lab with 20 bottles of pond water sloshing around in the boot of the car. 
 
 {{< figure src="winterPonds.jpeg" title="The ponds in the winter of 2015. The pond closest to the camera has been experimentally heated - no ice has formed on the surface" numbered="false" lightbox="true" >}}
@@ -66,7 +69,9 @@ Beacuse we did this over the course of a year we would not only be able to look 
 
 This project produced a slew of data, which is still being probed. From the subset that I analysed for my undergraduate project (Oxy-lab and flow cytometry data for 6 months) we found that the communities were more different from month to month than between heated and ambient treatments. This is really cool. Let me explain.
 
-So, as I mentioned above, we wanted to see if __one__ phytoplankton species adapting to temperature would be the same as __many__ phytoplankton species adapting to temperature. A single species in isolation can adapt via rapid evolution but we didn't find any evidence of this in our pond communities. There was no difference in thermal metabolic niche between ambient and heated communities when pooled across months. This suggested to us that there was something more complicated going on.
+## So what?
+
+As I mentioned above, we wanted to see if __one__ phytoplankton species adapting to temperature would be the same as __many__ phytoplankton species adapting to temperature. A single species in isolation can adapt via rapid evolution but we didn't find any evidence of this in our pond communities. There was no difference in thermal metabolic niche between ambient and heated communities when pooled across months. This suggested to us that there was something more complicated going on.
 
 Imagine the workforce of a postal service. Each employee is really good at the particular task which they are assigned to. People who work at the counter have a different skill set to people who deliver the post or people who organise the smooth delivery of your letters behind the scenes. Now imagine a scenario where the envrionment changes and suddenly the company has decided to open 30 new branches requiring more staff to work at the counters in the stores. The people who deliver the post and who work in operations could learn a new skill set and switch roles to help cover the increased demand for in-store staff, but this would probably take significantly longer than just hiring more people who already have the required skill set.
 
