@@ -63,7 +63,7 @@ The project used a semi-natural system of 20 man-made ponds in Dorset. The ponds
 
 {{< figure src="winterPonds.jpeg" title="The ponds in the winter of 2015. The pond closest to the camera has been experimentally heated - no ice has formed on the surface" numbered="false" lightbox="true" >}}
 
-We categorised the thermal metabolic niche of the phytoplankton communities using the dreaded Oxy-lab\* (how fast do they produce O2 at different temperatures?) and characterised the communities using flow cytometry and genetic barcoding (what kinds of plankton are in each pond and how many of each?). We also grew the communities at different temperatures to test if they were better adapted to (reproduced faster in) warmer or cooler climes. 
+We categorised the thermal metabolic niche of the phytoplankton communities using the dreaded [Oxy-lab](https://en.wikipedia.org/wiki/Clark_electrode)\* (how fast do they produce O<sub>2</sub> at different temperatures?) and characterised the communities using [flow cytometry](https://en.wikipedia.org/wiki/Flow_cytometry) and [genetic barcoding](https://en.wikipedia.org/wiki/DNA_barcoding) (what kinds of plankton are in each pond and how many of each?). We also grew the communities at different temperatures to test if they were better adapted to (reproduced faster in) warmer or cooler climes. 
 
 Beacuse we did this over the course of a year we would not only be able to look at differences between heated and ambient pond communities but also see how their responses to temperature changed with the seasons.
 
@@ -79,11 +79,14 @@ As the seasons changed for our pond communities and higher or lower thermal nich
 
 Now, it is probable that there was some adaptive evolution going on that we didn't detect and this will be better understood once the growth data has been analysed. However, I think this is a really cool example of how the complexities of ecosystems and communities can produce responses that you don't expect. These little battles are going on all around you right now, I bet you'll never look at a puddle of water in the same way again!
 
-I feel so privilaged to have been a part of this project and am immensley grateful to Elisa Schaum who was the mastermind behind this project and everyone else in Gabriel Yvon-Durocher's lab for having made me feel like a scientist for the first time.
+I feel so privilaged to have been a part of this project and am immensley grateful to [Elisa Schaum](https://www.biologie.uni-hamburg.de/en/forschung/oekologie-biologische-ressourcen/planktoek/mitarbeiter/schaum.html) who was the mastermind behind this project and everyone else in [Gabriel Yvon-Durocher's](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Gabriel_Yvon-Durocher) lab for having made me feel like a scientist for the first time.
 
-\*Actually an incredibly useful bit of kit, just very tempermental.. 
+\*<font size="2">Actually an incredibly useful bit of kit, just very tempermental..</font>
 
-Here are some papers that also use the pond set-up:
-
-Here is some other relevant literature in case you are iching to learn more about phytoplankton communities:
+Here is some relevant literature in case you are iching to learn more about phytoplankton communities:
+*	[Bestion, E. _et al._ Metabolic traits predict the effects of warming on phytoplankton competition _Ecology Letters_ (2018)]( https://doi.org/10.1111/ele.12932)
+*	[Schaum, C-E. _et al._ Adaptation of phytoplankton to a decade of experimental warming linked to increased photosynthesis. _Nat Ecol Evol_ (2017)](https://doi.org/10.1038/s41559-017-0094)
+*	[Yvon-Durocher _et al._ Long-term warming amplifies shifts in the carbon cycle of experimental ponds. _Nature Climate Change_ (2017)](https://doi.org/10.1038/nclimate3229)
+*	[Padﬁeld _et al._ Rapid evolution of metabolic traits explains thermal adaptation in phytoplankton _Ecology Letters_(2016)](https://doi.org/10.1111/ele.12545)
+*	 [Yvon-Durocher _et al._ Five Years of Experimental Warming Increases the Biodiversity and Productivity of Phytoplankton _PLOS Biology_ (2015)](https://doi.org/10.1371/journal.pbio.1002324)
 
