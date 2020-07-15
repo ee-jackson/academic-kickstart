@@ -48,22 +48,22 @@ Our undergraduate projects were randomly assigned and when I found out I would b
 
 However, the glass bottles of green-tinged pond water turned out to be a portal to a world in miniture. With incredibly fast generation times and thousands of individuals of different species living together, they were a perfect study system to tease out the mechanisms driving adaption in communities.
 
-Phytoplankton, I learned, were actually also incredibly interesting and important in their own right. Did you know that the oxygen in every other breath you breathe was produced by these tiny water-dwellers? They also form the foundation of food webs in aquatic systems, meaning that changes at the microbial level could have cascading effects all the way up the chain to our big charismatic fish friends.
+Phytoplankton, I learned, were actually also incredibly interesting and important in their own right. Did you know that the oxygen in every other breath you breathe is produced by these tiny water-dwellers? They also form the foundation of food webs in aquatic systems, meaning that changes at the microbial level could have cascading effects all the way up the chain to our big charismatic fish friends.
 
 {{< figure src="sadPhytoplankton.jpeg" title="[\*Sad phytoplankton noises\* (2020)](https://www.reddit.com/r/memes/comments/ffe49v/sad_phytoplankton_noises/?utm_source=share&utm_medium=web2x)" numbered="false" lightbox="true" >}}
 
-Due to the laws of thermodynamics, the rate at which phytoplankton photosynthesise and produce oxygen is controlled by temperature. As it gets warmer the rate of photosynthesis increases untill it reaches a point where the plankton can't handle it and O2 production drops rapidly.
-Being so sensitive to temperature you may wonder how phytoplankton will fare on our rapidly warming planet in the future. Will they be able keep up with the speed of change and keep our aquatic ecosystems running?
+Due to the laws of thermodynamics, the rate at which phytoplankton photosynthesise and produce oxygen is driven by temperature. As it gets warmer the rate of photosynthesis increases, untill it reaches a point where the plankton can't handle it and O<sub>2</sub> production drops rapidly.
+Being so sensitive to temperature, you may wonder how phytoplankton will fare on our rapidly warming planet in the future. Will they be able keep up with the speed of change and keep our aquatic ecosystems running?
 
 Previous work done by the lab group had shown that the phytoplankton _Chlorella vulgaris_, in isolation, could change it's thermal metabolic niche in sync with rising temperatures through rapid evolution [(Padfield _et al_. 2016)](https://doi.org/10.1111/ele.12545). I was joining a project which would try to test if this response scaled up to whole communities of different phytoplankton species living together.
 
 ## What did we do?
 
-The project used a semi-natural system of 20 man-made ponds in Dorset. The ponds were built 10 years prior and seeded with an innoculum of common phytoplankton species. Half of the ponds are kept at 3-5 degrees C warmer than ambient temperature to simulate the warmer ponds we might see in the future. The idea was to see if a community arose in the warmed ponds that was better able to deal with higher temperatures. Every month for a year we visited the ponds and returned back to the lab with 20 bottles of pond water sloshing around in the boot of the car. 
+The project used a semi-natural system of 20 man-made ponds in Dorset. The ponds were built 10 years prior and seeded with an innoculum of common phytoplankton species. Half of the ponds are kept at 3-5 degrees C warmer than ambient temperature, to simulate the warmer ponds we might see in the future. The idea was to see if a community arose in the warmed ponds that was better able to deal with higher temperatures. Every month for a year we visited the ponds and returned back to the lab with 20 bottles of pond water sloshing around in the boot of the car. 
 
 {{< figure src="winterPonds.jpeg" title="The ponds in the winter of 2015. The pond closest to the camera has been experimentally heated - no ice has formed on the surface" numbered="false" lightbox="true" >}}
 
-We categorised the thermal metabolic niche of the phytoplankton communities using the dreaded [Oxy-lab](https://en.wikipedia.org/wiki/Clark_electrode)\* (how fast do they produce O<sub>2</sub> at different temperatures?) and characterised the communities using [flow cytometry](https://en.wikipedia.org/wiki/Flow_cytometry) and [genetic barcoding](https://en.wikipedia.org/wiki/DNA_barcoding) (what kinds of plankton are in each pond and how many of each?). We also grew the communities at different temperatures to test if they were better adapted to (reproduced faster in) warmer or cooler climes. 
+We categorised the thermal metabolic niche of the phytoplankton communities using the dreaded\* [Oxy-lab](https://en.wikipedia.org/wiki/Clark_electrode) (how fast do they produce O<sub>2</sub> at different temperatures?) and characterised the communities using [flow cytometry](https://en.wikipedia.org/wiki/Flow_cytometry) and [genetic barcoding](https://en.wikipedia.org/wiki/DNA_barcoding) (what kinds of plankton are in each pond and how many of each?). We also grew the communities at different temperatures to test if they were better adapted to (reproduced faster in) warmer or cooler climes. 
 
 Beacuse we did this over the course of a year we would not only be able to look at differences between heated and ambient pond communities but also see how their responses to temperature changed with the seasons.
 
@@ -87,6 +87,6 @@ Here is some relevant literature in case you are iching to learn more about phyt
 *	[Bestion, E. _et al._ Metabolic traits predict the effects of warming on phytoplankton competition _Ecology Letters_ (2018)]( https://doi.org/10.1111/ele.12932)
 *	[Schaum, C-E. _et al._ Adaptation of phytoplankton to a decade of experimental warming linked to increased photosynthesis. _Nat Ecol Evol_ (2017)](https://doi.org/10.1038/s41559-017-0094)
 *	[Yvon-Durocher, G. _et al._ Long-term warming amplifies shifts in the carbon cycle of experimental ponds. _Nature Climate Change_ (2017)](https://doi.org/10.1038/nclimate3229)
-*	[Padﬁeld, D. _et al._ Rapid evolution of metabolic traits explains thermal adaptation in phytoplankton _Ecology Letters_(2016)](https://doi.org/10.1111/ele.12545)
+*	[Padﬁeld, D. _et al._ Rapid evolution of metabolic traits explains thermal adaptation in phytoplankton _Ecology Letters_ (2016)](https://doi.org/10.1111/ele.12545)
 *	 [Yvon-Durocher, G. _et al._ Five years of experimental warming increases the biodiversity and productivity of phytoplankton _PLOS Biology_ (2015)](https://doi.org/10.1371/journal.pbio.1002324)
 
