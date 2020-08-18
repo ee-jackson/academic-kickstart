@@ -24,14 +24,14 @@ subtitle = ""
   # [[content.filter_button]]
   #   name = "All"
   #   tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Past"
-  #   tag = "Past"
-  
-  # [[content.filter_button]]
-  #   name = "Present"
-  #   tag = "Present"
+
+  [[content.filter_button]]
+    name = "Past"
+    tag = "Past"
+
+  [[content.filter_button]]
+    name = "Present"
+    tag = "Present"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
