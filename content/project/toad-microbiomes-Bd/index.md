@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Toad Microbiomes and Bd"
+title: "Toad microbiomes and Bd"
 summary: ""
 authors: ["admin"]
 tags: []
-categories: []
+categories: ["Community ecology", "Microbial ecology", "Conservation", Past"]
 date: 2020-07-14T10:58:15+01:00
-draft: true
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +16,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "mTGhL agar plates with _Bd_ spread evenly across the surface assayed against a streak of bacteria"
   focal_point: ""
   preview_only: false
 
@@ -40,3 +40,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Chytridiomycosis, a fatal skin disease caused by the fungal pathogen _Batrachochytrium dendrobatidis_ (_Bd_), is responsible for widespread declines and extinctions of amphibian species.
+
+Bacterial communities associated with multicellular hosts (microbiomes) are well documented for their vital role in maintaining host health. Commensal bacteria resident on amphibian skin can inhibit the growth of Bd, and in doing so confer survival benefits to the host, suggesting that there may be a way to use probiotic therapy as a conservation strategy to mitigate the loss of amphibian species.
+
+To identify potential candidates for probiotic inoculation, in collaboration with my MRes supervisor Xavier Harrison (University of Exeter) and Kieran Bates (University of Oxford), I investigated the extent to which bacterial genetic variation contributes to differences in ability to restrict the growth of _Bd_.
+
+We isolated bacterial strains from the skin of Pyrenean _Alytes obstetricans_ and identified isolates to genus level using 16s rRNA sequencing. Isolates were co-cultured with _Bd_ in-vitro to assess inhibitory ability. We found no evidence of a phylogenetic signal in inhibition of _Bd_. Variation in inhibition among bacterial strains within a genus, was greater than variation between genera. 
+
+The results of this project support a community-level approach, as highly divergent bacteria can possess similar functional roles and the ecological consequences of augmenting established microbial communities are not fully understood.
