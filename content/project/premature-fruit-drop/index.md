@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "[_Guapira standleyana_ immature-fruit photographed as part of STRI's Environmental Science Program. Creator: Steven Paton, Source: STRI](https://biogeodb.stri.si.edu/bioinformatics/dfm/metas/view/8609)"
+  caption: "[Immature-fruit of _Guapira standleyana._ Image credit - Steven Paton, STRI](https://biogeodb.stri.si.edu/bioinformatics/dfm/metas/view/8609)"
   focal_point: "TopLeft"
   preview_only: false
 
