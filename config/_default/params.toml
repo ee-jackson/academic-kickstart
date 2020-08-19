@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "forest"
+theme = "custom"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = false, page = false, post = false, project = false, publication = false, talk = false}
+show_related = {docs = false, page = false, post = true, project = false, publication = true, talk = false}
 
 ############################
 ## Contact details
