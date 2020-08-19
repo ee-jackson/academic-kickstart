@@ -16,7 +16,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Collecting samples on the McMurdo Ice Shelf. Image credit - Anne Jungblut"
   focal_point: "TopRight"
   preview_only: false
 
