@@ -4,7 +4,7 @@
 title: "Toad microbiomes and Bd"
 summary: ""
 authors: ["admin"]
-tags: ["Community ecology", "Microbial ecology", "Conservation", Past"]
+tags: ["Community ecology", "Microbial ecology", "Conservation", "Past"]
 categories: []
 date: 2020-07-14T10:58:15+01:00
 draft: false
@@ -16,8 +16,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "mTGhL agar plates with _Bd_ spread evenly across the surface assayed against a streak of bacteria"
-  focal_point: ""
+  caption: "Upper: mTGhL agar plates with _Bd_ spread evenly across the surface assayed against a streak of bacteria. Lower: images of _Alytes obstetricans_ and _Bd_, image credit - Matthew Fisher"
+  focal_point: "Top"
   preview_only: false
 
 # Custom links (optional).
