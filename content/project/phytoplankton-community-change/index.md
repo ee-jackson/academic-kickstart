@@ -4,8 +4,8 @@
 title: "Seasonal thermal adaption in phytoplankton communities"
 summary: ""
 authors: ["admin"]
-tags: []
-categories: ["Community ecology", "Evolution", "Metabolic theory", "Past"]
+tags: ["Community ecology", "Evolution", "Metabolic theory", "Past"]
+categories: []
 date: 2020-07-14T11:05:54+01:00
 draft: true
 

@@ -4,8 +4,8 @@
 title: "Toad microbiomes and Bd"
 summary: ""
 authors: ["admin"]
-tags: []
-categories: ["Community ecology", "Microbial ecology", "Conservation", Past"]
+tags: ["Community ecology", "Microbial ecology", "Conservation", Past"]
+categories: []
 date: 2020-07-14T10:58:15+01:00
 draft: false
 
