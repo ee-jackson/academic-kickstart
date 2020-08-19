@@ -40,9 +40,9 @@ url_video: ""
 slides: ""
 ---
 
-The high local species richness in tropical forests poses a challenge to general ecological theory, where competition for resources limits local alpha diversity through competitive exclusion. The Janzen-Connell hypothesis, proposes that coexistence is achieved through the role of specialist plant enemies, which reduce recruitment close to reproductive adults of the same species and in areas of high conspecific density, providing space for other species.
+The high local species richness in tropical forests poses a challenge to general ecological theory, where competition for resources limits local alpha diversity through competitive exclusion. The Janzen-Connell hypothesis proposes that coexistence is achieved through the role of specialist plant enemies, which reduce recruitment close to reproductive adults of the same species and in areas of high conspecific density.
 
-There have been many studies supporting this theory, but the majority focus on enemies attacking seeds once they have been dispersed and are lying on the forest floor. We don't know much about the fate of seeds that are still developing and attached to the parent plant. Pre-dispersal seed predation could cause a reduction in the number of seeds that are successfully dispersed, with unknown consequences for plant diversity maintenance. 
+Many studies support this theory, but the majority focus on enemies attacking seeds once they have been dispersed and are lying on the forest floor. We don't know much about the fate of seeds that are still developing and attached to the parent plant. Pre-dispersal seed predation could cause a reduction in the number of seeds that are successfully dispersed, with unknown consequences for plant diversity maintenance. 
 
 In collaboration with Sofia Gripenberg (University of Reading), my PhD supervisor, I will conduct manipulative field experiments, which exclude seed predators from individuals of selected tree species. By comparing the number of healthy seeds produced on treated trees compared to control trees, I can quantify seed mortality caused by pre-dispersal enemies and test whether pre-dispersal seed predators are in fact suppressing the reproductive output of tropical forest plants.
 
