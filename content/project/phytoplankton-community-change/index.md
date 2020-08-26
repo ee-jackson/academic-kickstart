@@ -16,7 +16,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "A snapshot of the phytoplankton community from an experimentaly heated pond in October 2015"
+  caption: "The freshwater mesocosms in February 2016."
   focal_point: "Bottom"
   preview_only: false
 
@@ -43,4 +43,4 @@ slides: ""
 
 Phytoplankton are the foundation of aquatic ecosystems and contribute to 50% of global primary production. In a rapidly changing climate, we expect phytoplankton will also adapt and change. Changes in temperature scale with the rate of phytoplankton photosynthesis and respiration up to an optimum. This optimum temperature is higher for a community of phytoplankton species as opposed to a population of a single species, contrary to the theory of metabolic ecology.
 
-In collaboration with my undergraduate supervisors, Elisa Schaum (University of Hamburg) and Gabriel Yvon-Durocher (University of Exeter), we aimed to disentangle the effects that ecology, physiology and evolutionary history have on the temperature dependence of photosynthesis in phytoplankton communities. Using an experimental set-up of phytoplankton communities which have been evolving in ambient and heated freshwater ponds for ten years, we characterised the temperature dependence of photosynthesis over the course of a year.
+In collaboration with my undergraduate supervisors, Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), we aimed to disentangle the effects that ecology, physiology and evolutionary history have on the temperature dependence of photosynthesis in phytoplankton communities. Using an experimental set-up of phytoplankton communities which have been evolving in ambient and heated semi-natural ponds for ten years, we characterised the temperature dependence of photosynthesis over the course of a year.
