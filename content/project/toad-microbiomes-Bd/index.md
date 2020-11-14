@@ -52,4 +52,4 @@ We isolated bacterial strains from the skin of Pyrenean _Alytes obstetricans_ an
 The results of this project support a community-level approach to microbiome studies, as highly divergent bacteria can possess similar functional roles and the ecological consequences of augmenting established microbial communities are not fully understood.
 
 Related works:
-*	[Bates, K.A. _et al._ Amphibian chytridiomycosis outbreak dynamics are linked with host skin bacterial community structure _Nature Communications_ (2018)](https://doi.org/10.1038/s41467-018-02967-w)
+*	[Bates, K.A. _et al._ Amphibian chytridiomycosis outbreak dynamics are linked with host skin bacterial community structure. _Nature Communications_ (2018)](https://doi.org/10.1038/s41467-018-02967-w)

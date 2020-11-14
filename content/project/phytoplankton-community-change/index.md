@@ -47,8 +47,8 @@ In collaboration with my undergraduate supervisors, Gabriel Yvon-Durocher (Unive
 
 
 Related works:
-*	[Bestion, E. _et al._ Metabolic traits predict the effects of warming on phytoplankton competition _Ecology Letters_ (2018)]( https://doi.org/10.1111/ele.12932)
+*	[Bestion, E. _et al._ Metabolic traits predict the effects of warming on phytoplankton competition. _Ecology Letters_ (2018)]( https://doi.org/10.1111/ele.12932)
 *	[Schaum, C-E. _et al._ Adaptation of phytoplankton to a decade of experimental warming linked to increased photosynthesis. _Nat Ecol Evol_ (2017)](https://doi.org/10.1038/s41559-017-0094)
 *	[Yvon-Durocher, G. _et al._ Long-term warming amplifies shifts in the carbon cycle of experimental ponds. _Nature Climate Change_ (2017)](https://doi.org/10.1038/nclimate3229)
-*	[Padﬁeld, D. _et al._ Rapid evolution of metabolic traits explains thermal adaptation in phytoplankton _Ecology Letters_ (2016)](https://doi.org/10.1111/ele.12545)
-*	 [Yvon-Durocher, G. _et al._ Five years of experimental warming increases the biodiversity and productivity of phytoplankton _PLOS Biology_ (2015)](https://doi.org/10.1371/journal.pbio.1002324)
+*	[Padﬁeld, D. _et al._ Rapid evolution of metabolic traits explains thermal adaptation in phytoplankton. _Ecology Letters_ (2016)](https://doi.org/10.1111/ele.12545)
+*	 [Yvon-Durocher, G. _et al._ Five years of experimental warming increases the biodiversity and productivity of phytoplankton. _PLOS Biology_ (2015)](https://doi.org/10.1371/journal.pbio.1002324)

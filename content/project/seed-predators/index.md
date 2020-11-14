@@ -53,5 +53,5 @@ Using a combination of field-based experimental work, modelling, and the analysi
 
 Related works:
 *	[Gripenberg, S. Do pre-dispersal insect seed predators contribute to maintaining tropical forest plant diversity? _Biotropica_ (2018)]( https://doi.org/10.1111/btp.12602)
-*	[Jones, F. & Comita, L. Density-dependent pre-dispersal seed predation and fruit set in a tropical tree _Oikos_ (2010)](https://doi.org/10.1111/j.1600-0706.2010.18547.x)
-*	[Levi, T. _et al._ Tropical forests can maintain hyperdiversity because of enemies _PNAS_ (2019)](https://doi.org/10.1073/pnas.1813211116)
+*	[Jones, F. & Comita, L. Density-dependent pre-dispersal seed predation and fruit set in a tropical tree. _Oikos_ (2010)](https://doi.org/10.1111/j.1600-0706.2010.18547.x)
+*	[Levi, T. _et al._ Tropical forests can maintain hyperdiversity because of enemies. _PNAS_ (2019)](https://doi.org/10.1073/pnas.1813211116)

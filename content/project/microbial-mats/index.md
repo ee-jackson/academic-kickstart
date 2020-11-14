@@ -46,4 +46,4 @@ Each summer, the McMurdo Ice Shelf in Antarctica becomes littered with ponds, as
 We wanted to understand how the extreme environments of these ponds shape the communities residing in them and whether environmental filtering plays a role in the assembly of microbial mat communities. In collaboration with my MRes supervisor Anne Jungblut (Natural History Museum, London) and Ian Hawes (University of Waikato), we compared pro- and eukaryotic communities within and between ponds using 16S and 18S rRNA gene sequencing and community structure analysis.
 
 Related works:
-*	[Jungblut, A.D _et al._ Diversity within cyanobacterial mat communities in variable salinity meltwater ponds of McMurdo Ice Shelf, Antarctica _Environmental microbiology_ (2005)](https://doi.org/10.1111/j.1462-2920.2005.00717.x)
+*	[Jungblut, A.D _et al._ Diversity within cyanobacterial mat communities in variable salinity meltwater ponds of McMurdo Ice Shelf, Antarctica. _Environmental microbiology_ (2005)](https://doi.org/10.1111/j.1462-2920.2005.00717.x)
