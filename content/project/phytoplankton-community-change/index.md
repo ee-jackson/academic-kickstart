@@ -44,3 +44,11 @@ slides: ""
 Phytoplankton are the foundation of aquatic ecosystems and contribute to 50% of global primary production. In a rapidly changing climate, we expect phytoplankton will also adapt and change. Changes in temperature scale with the rate of phytoplankton photosynthesis and respiration up to an optimum. This optimum temperature is higher for a community of phytoplankton species as opposed to a population of a single species, contrary to the theory of metabolic ecology.
 
 In collaboration with my undergraduate supervisors, Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), we aimed to disentangle the effects that ecology, physiology and evolutionary history have on the temperature dependence of photosynthesis in phytoplankton communities. Using an experimental set-up of phytoplankton communities which have been evolving in ambient and heated semi-natural ponds for ten years, we characterised the temperature dependence of photosynthesis over the course of a year.
+
+
+Related works:
+*	[Bestion, E. _et al._ Metabolic traits predict the effects of warming on phytoplankton competition _Ecology Letters_ (2018)]( https://doi.org/10.1111/ele.12932)
+*	[Schaum, C-E. _et al._ Adaptation of phytoplankton to a decade of experimental warming linked to increased photosynthesis. _Nat Ecol Evol_ (2017)](https://doi.org/10.1038/s41559-017-0094)
+*	[Yvon-Durocher, G. _et al._ Long-term warming amplifies shifts in the carbon cycle of experimental ponds. _Nature Climate Change_ (2017)](https://doi.org/10.1038/nclimate3229)
+*	[Padﬁeld, D. _et al._ Rapid evolution of metabolic traits explains thermal adaptation in phytoplankton _Ecology Letters_ (2016)](https://doi.org/10.1111/ele.12545)
+*	 [Yvon-Durocher, G. _et al._ Five years of experimental warming increases the biodiversity and productivity of phytoplankton _PLOS Biology_ (2015)](https://doi.org/10.1371/journal.pbio.1002324)
