@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Toad microbiomes and Bd"
+title: "Toad microbiomes as a defence against pathogenic attack"
 summary: ""
 authors: ["admin"]
 tags: ["Community ecology", "Microbial ecology", "Conservation", "Past"]
@@ -46,10 +46,6 @@ Chytridiomycosis, a fatal skin disease caused by the fungal pathogen _Batrachoch
 Bacterial communities associated with multicellular hosts (microbiomes) are well documented for their vital role in maintaining host health. Commensal bacteria resident on amphibian skin can inhibit the growth of Bd, and in doing so confer survival benefits to the host, suggesting that there may be a way to use probiotic therapy as a conservation strategy to mitigate the loss of amphibian species.
 
 To identify potential candidates for probiotic inoculation, in collaboration with my MRes supervisor Xavier Harrison (University of Exeter) and Kieran Bates (University of Oxford), I investigated the extent to which bacterial genetic variation contributes to differences in ability to restrict the growth of _Bd_.
-
-We isolated bacterial strains from the skin of Pyrenean _Alytes obstetricans_ and identified isolates to genus level using 16s rRNA sequencing. Isolates were co-cultured with _Bd_ in-vitro to assess inhibitory ability. We found no evidence of a phylogenetic signal in inhibition of _Bd_. Variation in inhibition among bacterial strains within a genus, was greater than variation between genera. 
-
-The results of this project support a community-level approach to microbiome studies, as highly divergent bacteria can possess similar functional roles and the ecological consequences of augmenting established microbial communities are not fully understood.
 
 Related works:
 *	[Bates, K.A. _et al._ Amphibian chytridiomycosis outbreak dynamics are linked with host skin bacterial community structure. _Nature Communications_ (2018)](https://doi.org/10.1038/s41467-018-02967-w)

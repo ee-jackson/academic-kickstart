@@ -27,3 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [toad-microbiomes-Bd]
 ---
+
+We isolated bacterial strains from the skin of Pyrenean _Alytes obstetricans_ and identified isolates to genus level using 16s rRNA sequencing. Isolates were co-cultured with _Bd_ in-vitro to assess inhibitory ability. We found no evidence of a phylogenetic signal in inhibition of _Bd_. Variation in inhibition among bacterial strains within a genus, was greater than variation between genera. 
+
+The results of this project support a community-level approach to microbiome studies, as highly divergent bacteria can possess similar functional roles and the ecological consequences of augmenting established microbial communities are not fully understood.
