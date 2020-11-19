@@ -10,6 +10,7 @@ publication: ""
 doi: "10.1101/2020.05.19.103978"
 url_pdf: https://www.biorxiv.org/content/10.1101/2020.05.19.103978v1.full.pdf
 tags: ["Pre-print"]
+projects: [phytoplankton-community-change]
 
 image:
   placement: 1

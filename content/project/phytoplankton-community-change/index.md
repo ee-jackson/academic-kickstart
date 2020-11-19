@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Seasonal thermal adaption in phytoplankton communities"
+title: "Adaptive potential of phytoplankton in a changing world"
 summary: ""
 authors: ["admin"]
 tags: ["Community ecology", "Evolution", "Metabolic theory", "Past"]
@@ -16,7 +16,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "The freshwater mesocosms in February 2016"
+  caption: "Phytoplankton from an experimentaly heated pond in October 2015"
   focal_point: "Bottom"
   preview_only: false
 
@@ -41,10 +41,9 @@ url_video: ""
 slides: ""
 ---
 
-Phytoplankton are the foundation of aquatic ecosystems and contribute to 50% of global primary production. In a rapidly changing climate, we expect phytoplankton will also adapt and change. Changes in temperature scale with the rate of phytoplankton photosynthesis and respiration up to an optimum. This optimum temperature is higher for a community of phytoplankton species as opposed to a population of a single species, contrary to the theory of metabolic ecology.
+Phytoplankton are the foundation of aquatic food-webs and contribute to 50% of global primary production. In a rapidly changing climate, we expect phytoplankton to adapt and change, with repercussions for aquatic ecosystems.
 
-In collaboration with my undergraduate supervisors, Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), we aimed to disentangle the effects that ecology, physiology and evolutionary history have on the temperature dependence of photosynthesis in phytoplankton communities. Using an experimental set-up of phytoplankton communities which have been evolving in ambient and heated semi-natural ponds for ten years, we characterised the temperature dependence of photosynthesis over the course of a year.
-
+During my undergraduate degree, I worked with Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), to disentangle the roles of ecology, physiology and evolutionary history, in the adaption of phytoplankton to environmental change.
 
 Related works:
 *	[Bestion, E. _et al._ Metabolic traits predict the effects of warming on phytoplankton competition. _Ecology Letters_ (2018)]( https://doi.org/10.1111/ele.12932)

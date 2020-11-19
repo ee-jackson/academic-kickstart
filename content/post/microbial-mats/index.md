@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Microbial Mats in Antarctica"
+title: "Microbial mats in Antarctica"
 subtitle: ""
 summary: ""
 authors: ["admin"]
