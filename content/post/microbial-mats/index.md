@@ -34,7 +34,7 @@ The McMurdo Ice Shelf in Antartica forms an 50m thick undulating surface of ice 
 
 The meltwater ponds of the McMurdo Ice Shelf are colonised by microbial mats, one of the few things that can survive in these extreme environments. Microbial mats are one of the earliest signs of life found on earth, thought to have been present [4,000 million years ago](https://doi.org/10.1098/rspb.1999.0934). They owe their persistance to their co-operative nature. The mats are actually composed of lots of different kinds of microorganisms, organised into a multi-layered, three dimentional sheet. Each layer contains organisms with a different functional role. There are oxygen- and sun- loving cyanobacteria in the upper layers gradually giving way to  anaerobic and sulfate- loving bacteria at the lowest levels, with many other groups inbetween. The cyanobacteria at the top convert sunlight into energy and the waste products of the organisms at each layer are then food for the layer below them.
 
-{{< figure src="pond_and_mat.jpg" title="A microbial mat sample" numbered="false" lightbox="true" >}}
+{{< figure src="pond_and_mat.jpg" numbered="false" lightbox="true" >}}
 
 In this study, we wanted to understand how the extreme environments of the meltwater ponds might shape the microbial mat communities residing in them.
 
@@ -43,7 +43,7 @@ My supervisor, Anne Jungblut, had spent a field season in Antartica and returned
 
 To find out what was living in the mats we had to extract DNA from each sample and amplify it (via PCR) ready for sequencing. This involved lots of shiny high-tech equipment and many failed attempts.
 
-{{< figure src="PCR.jpeg" title="[PCR Protocol, Sketching Science (2016)](https://sketchingscience.org/)" numbered="false" lightbox="true" >}}
+{{< figure src="PCR.jpeg" numbered="false" lightbox="true" >}}
 
 Weeks of hard work were condensed down into 550 nano grams of PCR product in very tiny test tubes and sent to the NHM sequencing facility. After a nail biting wait, we were rewarded with reams of DNA sequence data. Matching our data to a database of known DNA sequences for different organisms, we were able to determine the community composition of each of our microbial mat samples.
 
