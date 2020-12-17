@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Seasonal Thermal Adaption in Phytoplankton Communities"
+title: "Seasonal thermal adaption in phytoplankton communities"
 subtitle: ""
 summary: ""
 authors: ["admin"]
@@ -16,7 +16,7 @@ draft: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "A snapshot of the phytoplankton community from an experimentaly heated pond in October 2015"
+  caption: "The freshwater mesocosms in February 2016"
   focal_point: "Bottom"
   preview_only: false
 
