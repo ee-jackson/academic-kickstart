@@ -16,8 +16,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "The McMurdo Ice Shelf"
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).
@@ -34,13 +34,12 @@ The McMurdo Ice Shelf in Antartica forms an 50m thick undulating surface of ice 
 
 The meltwater ponds of the McMurdo Ice Shelf are colonised by microbial mats, one of the few things that can survive in these extreme environments. Microbial mats are one of the earliest signs of life found on earth, thought to have been present [4,000 million years ago](https://doi.org/10.1098/rspb.1999.0934). They owe their persistance to their co-operative nature. The mats are actually composed of lots of different kinds of microorganisms, organised into a multi-layered, three dimentional sheet. Each layer contains organisms with a different functional role. There are oxygen- and sun- loving cyanobacteria in the upper layers gradually giving way to  anaerobic and sulfate- loving bacteria at the lowest levels, with many other groups inbetween. The cyanobacteria at the top convert sunlight into energy and the waste products of the organisms at each layer are then food for the layer below them.
 
-* insert image of layers*
+{{< figure src="pond_and_mat.jpg" title="A microbial mat sample" numbered="false" lightbox="true" >}}
 
 In this study, we wanted to understand how the extreme environments of the meltwater ponds might shape the microbial mat communities residing in them.
 
-## What did we do?
 
-My supervisor, Anne Jungblut, had spent a field season in Antartica and returned with 6 frozen microbial mat samples from 6 meltwater ponds and measurements of pH, conductivity (a measure of salinity) and temperature from each.
+My supervisor, Anne Jungblut, had spent a field season in Antartica and returned with six frozen microbial mat samples from six meltwater ponds and measurements of pH, conductivity (a measure of salinity) and temperature from each.
 
 To find out what was living in the mats we had to extract DNA from each sample and amplify it (via PCR) ready for sequencing. This involved lots of shiny high-tech equipment and many failed attempts.
 
@@ -48,12 +47,11 @@ To find out what was living in the mats we had to extract DNA from each sample a
 
 Weeks of hard work were condensed down into 550 nano grams of PCR product in very tiny test tubes and sent to the NHM sequencing facility. After a nail biting wait, we were rewarded with reams of DNA sequence data. Matching our data to a database of known DNA sequences for different organisms, we were able to determine the community composition of each of our microbial mat samples.
 
-## So what?
 
 This was the first time eukaryote communities from these habitats had been analysed, and we collected more samples than had been used in previous studies, enabling us to look at heterogeneity within each pond for the first time.
 
 We found that communities from different ponds were all quite different from each other. Mats from the saltiest pond and the most acidic pond were especially different from the others. We also saw that these two ponds, which were at the extremes, had lower species diversity and richness. Different communities taken from the same pond were very similar. Taken together, these results could be suggestive of environmental filtering.
 
-Environmental filtering happens when species arrive at a location but are unable to persist there due to aboitic conditions. So, while some species are able to exist in ponds a just few meters away, the extreme salinity of a neighbouring pond may prohibit them from establishing there.
+Environmental filtering happens when species arrive at a location but are unable to persist there due to aboitic conditions. So, while some species are able to exist in ponds just few meters away, the extreme salinity of a neighbouring pond may prohibit them from establishing there.
 
-The findings from this study will further our understanding of processes that sustain biodiversity in ice-based habitats, which is especially important with the acceleration of environmental change that may accompany future, and current, polar warming. Understanding biodiversity in extreme environments can also provide us with a window into the past. Some of the oldest recognisable [Precambrian fossils](https://doi.org/10.1017/S1473550415000579) are of laminated cyanobacterial mats. The communities we have characterised here may not be so different to those that existed in the early days of life on Earth.
+The findings from this study will further our understanding of processes that sustain biodiversity in ice-based habitats, which is especially important with the acceleration of environmental change that may accompany future, and current, polar warming. Understanding biodiversity in extreme environments can also provide us with a window into the past. Some of the oldest recognisable [Precambrian fossils](https://doi.org/10.1017/S1473550415000579) are of laminated cyanobacterial mats. The communities we have characterised here, may not be so different to those that existed in the early days of life on Earth.
