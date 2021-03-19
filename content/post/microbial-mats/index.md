@@ -10,7 +10,7 @@ categories: []
 date: 2020-08-18T16:47:09+01:00
 lastmod: 2020-08-18T16:47:09+01:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,7 +39,7 @@ The meltwater ponds of the McMurdo Ice Shelf are colonised by microbial mats, on
 In this study, we wanted to understand how the extreme environments of the meltwater ponds might shape the microbial mat communities residing in them.
 
 
-My supervisor, Anne Jungblut, had spent a field season in Antartica and returned with six frozen microbial mat samples from six meltwater ponds and measurements of pH, conductivity (a measure of salinity) and temperature from each.
+My supervisor, [Anne Jungblut](https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/anne-jungblut.html) and her collaborator, [Ian Hawes](https://www.waikato.ac.nz/staff-profiles/people/ihawes), had spent a field season in Antartica and returned with six frozen microbial mat samples from six meltwater ponds and measurements of pH, conductivity (a measure of salinity) and temperature from each.
 
 To find out what was living in the mats we had to extract DNA from each sample and amplify it (via PCR) ready for sequencing. This involved lots of shiny high-tech equipment and many failed attempts.
 
