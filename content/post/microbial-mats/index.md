@@ -6,7 +6,7 @@ subtitle: "Behind the paper"
 summary: ""
 authors: ["admin"]
 tags: ["Community ecology", "Microbial ecology"]
-categories: []
+categories: ["Behind the paper"]
 date: 2020-08-18T16:47:09+01:00
 lastmod: 2020-08-18T16:47:09+01:00
 featured: false
@@ -27,9 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [microbial-mats]
 
-links:
-  - name: Publication
-    url: {{< relref "/publication/jackson-16-srrna-gene-2021" >}}
 ---
 
 The second of my 16-week research projects undertaken as a part of my MRes was based at the Natural History Museum (NHM), London. This was my first foray into the study of truly 'wild' communities and naturally diverse environments. I was working with samples of microbial mat communities from meltwater ponds in Antartica, arguably one of the weirdest habitats on earth.
@@ -59,3 +56,5 @@ We found that communities from different ponds were all quite different from eac
 Environmental filtering happens when species arrive at a location but are unable to persist there due to aboitic conditions. So, while some species are able to exist in ponds just few meters away, the extreme salinity of a neighbouring pond may prohibit them from establishing there.
 
 The findings from this study will further our understanding of processes that sustain biodiversity in ice-based habitats, which is especially important with the acceleration of environmental change that may accompany future, and current, polar warming. Understanding biodiversity in extreme environments can also provide us with a window into the past. Some of the oldest recognisable [Precambrian fossils](https://doi.org/10.1017/S1473550415000579) are of laminated cyanobacterial mats. The communities we have characterised here, may not be so different to those that existed in the early days of life on Earth.
+
+Read the paper [here](https://doi.org/10.1007/s00300-021-02843-2)
