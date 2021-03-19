@@ -13,6 +13,6 @@ tags: ["Community ecology", "Microbial ecology"]
 projects: [microbial-mats]
 url_custom:
   - name: Behind the paper
-    url: {{< relref "/post/microbial-mats" >}}
+    url: "../../post/microbial-mats"
 ---
 
