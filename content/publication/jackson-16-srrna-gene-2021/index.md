@@ -9,7 +9,7 @@ featured: false
 publication: "*Polar Biology*"
 doi: "10.1007/s00300-021-02843-2"
 url_pdf: https://link.springer.com/content/pdf/10.1007/s00300-021-02843-2.pdf
-tags: ["Pre-print"]
+tags: ["Community ecology", "Microbial ecology"]
 projects: [microbial-mats]
 ---
 

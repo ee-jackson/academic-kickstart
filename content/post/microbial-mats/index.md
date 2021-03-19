@@ -26,6 +26,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [microbial-mats]
+
+links:
+  - name: Publication
+    url: {{< relref "/publication/jackson-16-srrna-gene-2021" >}}
 ---
 
 The second of my 16-week research projects undertaken as a part of my MRes was based at the Natural History Museum (NHM), London. This was my first foray into the study of truly 'wild' communities and naturally diverse environments. I was working with samples of microbial mat communities from meltwater ponds in Antartica, arguably one of the weirdest habitats on earth.
