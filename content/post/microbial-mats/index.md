@@ -27,6 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [microbial-mats]
 
+links:
+- name: Paper
+  url: ../../publication/jackson-16-srrna-gene-2021
 ---
 
 The second of my 16-week research projects undertaken as a part of my MRes was based at the Natural History Museum (NHM), London. I was working with samples of microbial mat communities from meltwater ponds in Antartica, arguably one of the weirdest habitats on earth.
