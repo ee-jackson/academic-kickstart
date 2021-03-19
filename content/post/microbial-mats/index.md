@@ -29,7 +29,7 @@ projects: [microbial-mats]
 
 ---
 
-The second of my 16-week research projects undertaken as a part of my MRes was based at the Natural History Museum (NHM), London. This was my first foray into the study of truly 'wild' communities and naturally diverse environments. I was working with samples of microbial mat communities from meltwater ponds in Antartica, arguably one of the weirdest habitats on earth.
+The second of my 16-week research projects undertaken as a part of my MRes was based at the Natural History Museum (NHM), London. I was working with samples of microbial mat communities from meltwater ponds in Antartica, arguably one of the weirdest habitats on earth.
 
 The McMurdo Ice Shelf in Antartica forms an 50m thick undulating surface of ice floating on the sea. Annual summer thawing of ice and snow causes the formation of thousands of ponds in depressions on the ice. Variable ammounts of trapped marine sediments and salt are released from the ice as it melts. This results in ponds which are very close together in space and yet at opposite ends of the spectrum in terms of salinity and pH. They can vary in size from thousands of meters in diameter to two, and have assorted levels of ice cover.
 
@@ -48,7 +48,6 @@ To find out what was living in the mats we had to extract DNA from each sample a
 
 Weeks of hard work were condensed down into 550 nano grams of PCR product in very tiny test tubes and sent to the NHM sequencing facility. After a nail biting wait, we were rewarded with reams of DNA sequence data. Matching our data to a database of known DNA sequences for different organisms, we were able to determine the community composition of each of our microbial mat samples.
 
-
 This was the first time eukaryote communities from these habitats had been analysed, and we collected more samples than had been used in previous studies, enabling us to look at heterogeneity within each pond for the first time.
 
 We found that communities from different ponds were all quite different from each other. Mats from the saltiest pond and the most acidic pond were especially different from the others. We also saw that these two ponds, which were at the extremes, had lower species diversity and richness. Different communities taken from the same pond were very similar. Taken together, these results could be suggestive of environmental filtering.
@@ -57,4 +56,4 @@ Environmental filtering happens when species arrive at a location but are unable
 
 The findings from this study will further our understanding of processes that sustain biodiversity in ice-based habitats, which is especially important with the acceleration of environmental change that may accompany future, and current, polar warming. Understanding biodiversity in extreme environments can also provide us with a window into the past. Some of the oldest recognisable [Precambrian fossils](https://doi.org/10.1017/S1473550415000579) are of laminated cyanobacterial mats. The communities we have characterised here, may not be so different to those that existed in the early days of life on Earth.
 
-Read the paper [here](https://doi.org/10.1007/s00300-021-02843-2)
+__Read the paper [here](https://doi.org/10.1007/s00300-021-02843-2)__

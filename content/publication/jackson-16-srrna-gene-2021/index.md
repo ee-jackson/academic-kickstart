@@ -11,5 +11,8 @@ doi: "10.1007/s00300-021-02843-2"
 url_pdf: https://link.springer.com/content/pdf/10.1007/s00300-021-02843-2.pdf
 tags: ["Community ecology", "Microbial ecology"]
 projects: [microbial-mats]
+url_custom:
+  - name: Behind the paper
+    url: {{< relref "/post/microbial-mats" >}}
 ---
 
