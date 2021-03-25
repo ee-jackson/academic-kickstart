@@ -8,3 +8,9 @@ public/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# files I don't want public on git
+*draft_*
+
+# RStudio files
+.Rproj.user/
