@@ -2,13 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Microbial pond life in an icy desert"
-subtitle: "Behind the paper"
+subtitle: ""
 summary: ""
 authors: ["admin"]
 tags: ["Community ecology", "Microbial ecology"]
 categories: ["Behind the paper"]
-date: 2020-08-18T16:47:09+01:00
-lastmod: 2020-08-18T16:47:09+01:00
+date: 2021-03-26T16:47:09+01:00
+lastmod: 2021-03-26T16:47:09+01:00
 featured: false
 draft: false
 
