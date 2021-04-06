@@ -13,4 +13,8 @@ public/
 *draft_*
 
 # RStudio files
-.Rproj.user/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Thumbs.db
