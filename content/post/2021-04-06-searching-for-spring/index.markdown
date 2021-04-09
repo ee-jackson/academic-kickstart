@@ -233,7 +233,9 @@ ggplot() +
 
 ![](index_files/figure-html/plot_map-1.gif)<!-- -->
 
-I was hoping we'd see some kind of wave with flowers appearing in the South first, but alas, maybe there's just not enough data. It looks pretty cool though 🤷Some reading for you:
+I was hoping we'd see some kind of wave with flowers appearing in the South first, but alas, maybe there's just not enough data. It looks pretty cool though 🤷
+
+Some reading for you:
 *	[Barve, V.V _et al._ Methods for broad‐scale plant phenology assessments using citizen scientists’ photographs. _Applications in Plant Sciences_ (2020)](https://doi.org/10.1002/aps3.11315)
 * [Mesaglio, T _et al._ An overview of the history, current contributions and future outlook of iNaturalist in Australia. _Wildlife Research_ (2021)](https://doi.org/10.1071/WR20154)
 * [Nowak, K _et al._ Using community photography to investigate phenology: A case study of coat molt in the mountain goat (_Oreamnos americanus_) with missing data. _Ecology and Evolution_ (2020)](https://doi.org/10.1002/ece3.6954)
