@@ -21,7 +21,7 @@ projects: []
 
 It has been a long, dark winter for those of us under lockdown in the UK and to give myself something to look forward to, I decided to look into when we might expect to see the first Spring bulbs emerging. 
 
-iNaturalist does have a [bulk download facility](https://www.inaturalist.org/observations/export), but you can't pull the data directly into R, and I want to filter the data by `term_id`, which is not an option when using the bulk download facility.
+iNaturalist does have a [bulk download facility](https://www.inaturalist.org/observations/export), but you can't pull the data directly into R, and I want to filter the data by `term_id`, which is not an option when using the export facility.
 
 ```{r, echo = FALSE, warning=FALSE}
 rm(list = ls())
@@ -92,10 +92,10 @@ We can now bind all the elements of the list into one big dataframe and explore.
 
 ```{r, warning=FALSE, message=FALSE}
 thisisnotalist <- bind_rows(thisisalist)
-glimpse(thisisnotalist)
+dim(thisisnotalist)
 ```
 
-That's a lot of different variables! I'm interested in `observed_on`. Let's convert it to date format and do some quick overview plots.
+There are *a lot* of different variables! I'm interested in `observed_on`. Let's convert it to date format and do some quick overview plots.
 
 ```{r plot_date, warning=FALSE, message=FALSE}
 thisisnotalist %>%
@@ -105,18 +105,18 @@ thisisnotalist %>%
 
 flower_obs %>%
 	ggplot(aes(x = observed_on_date)) +
-	geom_bar(color = "#036C34") +
+	geom_bar(color = "#264653") +
 	scale_x_date(date_breaks = "1 year", date_labels = "%Y") +
 	labs(x = "Day observed")
 ```
 
-The number of observations recorded has increased each year, possibly due to increasing popularity of iNaturalist. There are also many more observations in the summer months than in the winter. We can get a better look at this pattern plotting by month.
+The number of observations recorded has increased each year, probably due to iNaturalist gaining popularity. There are also many more observations in the summer months than in the winter. We can get a better look at this pattern plotting by month.
 
 ```{r plot_month, warning=FALSE, message=FALSE}
 flower_obs %>%
   filter(observed_on_details.year < 2021) %>% # we don't have the full data for this yr
 	ggplot(aes(x= as.factor(observed_on_details.month))) +
-	geom_bar(fill = "grey90", color = "#036C34") +
+	geom_bar(fill = "grey90", color = "#264653") +
 	labs(x= "Month observed")
 ```
 
@@ -136,33 +136,34 @@ flower_obs %>%
 
 I always think of Crocus coming up first, along with Snowdrops, so it's reassuring to see them high up on this list. I think it would be nice to get a visualisation of the emergence of different flowers with the changing seasons. I'm going to choose a few which I know emerge fairly sequentially: Snowdrops (genus = _Galanthus_), Crocus, Daffodils (_Narcissus_), Hyacinths (_Hyacinthoides_), Iris, and finally Cyclamen, which flowers through the winter.
 
-I have to do some fiddling around here with dates. I'm going to change the year for every observation to be 2020, so that data from different years can be grouped together. I also use `floor_date` from [{lubridate}](https://github.com/tidyverse/lubridate) to round dates to the week they were observed. e.g. Tuesday 6th and Thursday 8th would both be rounded down to Sunday 4th.
+I have to do some fiddling around here with dates to get the x axis labels how I want them. I'm going to change the year for every observation to be 2020, so that data from different years can be grouped together. I also use `floor_date` from [{lubridate}](https://github.com/tidyverse/lubridate) to round dates to the week they were observed. e.g. Tuesday 6th and Thursday 8th would both be rounded down to Sunday 4th. This allows me to plot by week and label by month.
 
 ```{r plot_polar, warning=FALSE, message=FALSE}
-library("viridis") # for colours
 library("lubridate")
 
 flower_obs %>%
-	filter(str_detect(taxon.name, "Narcissus") | 
-		str_detect(taxon.name, "Iris") | 
-		str_detect(taxon.name, "Crocus")| 
-		str_detect(taxon.name, "Galanthus")|
-		str_detect(taxon.name, "Hyacinthoides")|
-		str_detect(taxon.name, "Cyclamen")) %>% 
-	separate(taxon.name, into = c("genus", "sp"), sep = " ") %>%
-	mutate(date = as.Date(paste(2020, strftime(observed_on, format = "%m-%d"), 
-	                            sep="-")) ) %>% 
-	mutate(week = floor_date(date, "week")) %>%
-	ggplot(aes(x= week, fill = genus)) +
-	geom_bar(position = "fill") +
-	scale_x_date(date_breaks = "1 month",  expand = c(0,0),
-		date_labels = "%B", limits = as.Date(c("2020-01-01", "2020-12-31"))) +
-	coord_polar() + 
-	scale_fill_viridis_d(option = "plasma") +
-	labs(y = "% of observations", x = "Week observed") +
-  theme_void(base_size = 9)+
+  filter(str_detect(taxon.name, "Narcissus") | 
+           str_detect(taxon.name, "Iris") | 
+           str_detect(taxon.name, "Crocus")| 
+           str_detect(taxon.name, "Galanthus")|
+           str_detect(taxon.name, "Hyacinthoides")|
+           str_detect(taxon.name, "Cyclamen")) %>% 
+  separate(taxon.name, into = c("genus", "sp"), sep = " ") %>%
+  mutate(date = as.Date(paste(2020, strftime(observed_on, format = "%m-%d"), 
+                              sep="-")) ) %>% 
+  mutate(week = floor_date(date, "week")) %>%
+  ggplot(aes(x= week, fill = genus)) +
+  geom_bar(position = "fill") +
+  scale_x_date(date_breaks = "1 month",  expand = c(0,0),
+               date_labels = "%B", limits = as.Date(c("2020-01-01", "2020-12-31"))) +
+  coord_polar() + 
+  scale_fill_manual(
+    values = c("#264653", "#2A9D8F", "#8AB17D",
+               "#E9C46A", "#F4A261", "#E76F51")) +
+  labs(y = "% of observations", x = "Week observed") +
+  theme_void(base_size = 9) +
   theme(axis.text.x = element_text())
-
+  
 ```
 
 I feel like this is a really nice one to use `coord_polar()` for. You can see how the months blend into each other, without a break at Dec/Jan. _Narcissus_ flowering phenology is well represented here, you can see how it steadily increases to a peak and then dips down again. 
@@ -190,13 +191,13 @@ flower_obs %>%
 		crs = 4326, agr = "constant")  -> geo_daff
 
 ggplot() +
-	geom_sf(data = uk_map) +
+	geom_sf(data = uk_map, fill = "white") +
 	geom_sf(data = geo_daff, shape = 16, size = 1.5, 
-		alpha = 0.8, colour = "forestgreen") +
+		colour = "#8AB17D") +
 	transition_states(as.factor(day_of_year),
                     state_length = 3) + 
 	shadow_mark(past = TRUE, future = FALSE) +
-	ggtitle("Observations of Daffodils in flower\n
+	ggtitle("Daffodils in flower\n
 		Day of the year: {closest_state}") 
 ```
 
