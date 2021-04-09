@@ -188,7 +188,6 @@ flower_obs %>%
   scale_fill_manual(
     values = c("#264653", "#2A9D8F", "#8AB17D",
                "#E9C46A", "#F4A261", "#E76F51")) +
-  labs(y = "% of observations", x = "Week observed") +
   theme_void(base_size = 9) +
   theme(axis.text.x = element_text())
 ```
