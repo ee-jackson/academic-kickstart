@@ -1,1 +1,1 @@
-Personal website of Eleanor Jackson. Created using [R Blogdown](https://github.com/rstudio/blogdown), and the [Academic theme](https://themes.gohugo.io/academic/) for [Hugo](https://gohugo.io/). [Hosted on Netifly](https://www.netlify.com).
+Personal website of Eleanor Jackson. Created using [R Blogdown](https://github.com/rstudio/blogdown), and the [Academic theme](https://themes.gohugo.io/academic/) for [Hugo](https://gohugo.io/). [Hosted on Netlify](https://www.netlify.com).
