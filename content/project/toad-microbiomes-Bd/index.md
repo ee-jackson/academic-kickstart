@@ -48,5 +48,5 @@ Bacterial communities associated with multicellular hosts (microbiomes) are well
 
 During my Master's program, I worked with Xavier Harrison and Kieran Bates at the Zoological Society of London, to identify potential candidates for probiotic inoculation. I isolated and identified bacteria from the amphibian microbiome using 16s rRNA sequencing. Using a culture-based method, I then assessed the inhibitory capabilities of isolates against the fungal pathogen _Batrachochytrium dendrobatidis_.
 
-Related works:
+Further reading:
 *	[Bates, K.A. _et al._ Amphibian chytridiomycosis outbreak dynamics are linked with host skin bacterial community structure. _Nature Communications_ (2018)](https://doi.org/10.1038/s41467-018-02967-w)

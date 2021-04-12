@@ -46,7 +46,7 @@ Phytoplankton are the foundation of aquatic food-webs and contribute to 50% of g
 
 During my undergraduate degree, I worked with Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), to disentangle the roles of ecology, physiology and evolutionary history, in the adaption of phytoplankton to environmental change.
 
-Related works:
+Further reading:
 *	[Bestion, E. _et al._ Metabolic traits predict the effects of warming on phytoplankton competition. _Ecology Letters_ (2018)]( https://doi.org/10.1111/ele.12932)
 *	[Schaum, C-E. _et al._ Adaptation of phytoplankton to a decade of experimental warming linked to increased photosynthesis. _Nat Ecol Evol_ (2017)](https://doi.org/10.1038/s41559-017-0094)
 *	[Yvon-Durocher, G. _et al._ Long-term warming amplifies shifts in the carbon cycle of experimental ponds. _Nature Climate Change_ (2017)](https://doi.org/10.1038/nclimate3229)
