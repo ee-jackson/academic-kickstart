@@ -111,7 +111,7 @@ flower_obs %>%
 	labs(x = "Day observed")
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/plot_date-1.png" width="672" />
+<img src="index_files/figure-html/plot_date-1.png" width="672" />
 
 The number of observations recorded has increased each year, probably due to iNaturalist gaining popularity. There are also many more observations in the summer months than in the winter. We can get a better look at this pattern plotting by month.
 
@@ -124,7 +124,7 @@ flower_obs %>%
 	labs(x= "Month observed")
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/plot_month-1.png" width="672" />
+<img src="index_files/figure-html/plot_month-1.png" width="672" />
 
 There's a peak in April with observations slowly dropping throughout the year. I didn't quite expect that. I would have assumed that observations of flowering plants would be relatively flat from April to August as different plants come into flower at different points throughout the spring and summer. Perhaps this is due to some kind of sampling bias in how people are recording observations. Let's have a look at which plants are the first to flower.
 
@@ -191,7 +191,7 @@ flower_obs %>%
   theme_void(base_size = 9)
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/plot_polar-1.png" width="672" />
+<img src="index_files/figure-html/plot_polar-1.png" width="672" />
 
 I feel like this is a really nice one to use `coord_polar()` for. You can see how the months blend into each other, without a break at Dec/Jan. _Narcissus_ flowering phenology is well represented here, you can see how it steadily increases to a peak and then dips down again. 
 
