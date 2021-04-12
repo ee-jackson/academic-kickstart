@@ -27,7 +27,7 @@ iNaturalist does have a [bulk download facility](https://www.inaturalist.org/obs
 rm(list = ls())
 library("knitr")
 library("emo")
-opts_chunk$set(tidy.opts=list(width.cutoff=50), tidy=FALSE, cache.lazy = FALSE, cache = FALSE)
+opts_chunk$set(tidy.opts=list(width.cutoff=50), tidy=FALSE, cache.lazy = FALSE, cache = FALSE, fig.width = 7)
 ```
 
 I'm going to use functions from [{httr}](https://github.com/r-lib/httr) to query the API, and [{jsonlite}](https://github.com/jeroen/jsonlite) to deal with the ugly json file that the API will return  `r emo::ji("no_good")`
@@ -160,8 +160,7 @@ flower_obs %>%
   scale_fill_manual(
     values = c("#264653", "#2A9D8F", "#8AB17D",
                "#E9C46A", "#F4A261", "#E76F51")) +
-  theme_void(base_size = 9) +
-  theme(axis.text.x = element_text())
+  theme_void(base_size = 9)
   
 ```
 
@@ -197,7 +196,7 @@ ggplot() +
                     state_length = 3) + 
 	shadow_mark(past = TRUE, future = FALSE) +
 	ggtitle("Daffodils in flower\n
-		Day of the year: {closest_state}") 
+		Day of the year: {closest_state}")
 ```
 
 I was hoping we'd see some kind of wave with flowers appearing in the South first, but alas, maybe there's just not enough data. It looks pretty cool though `r emo::ji("shrug")` 

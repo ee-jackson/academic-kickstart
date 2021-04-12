@@ -19,7 +19,7 @@ projects: []
 
 [iNaturalist](https://www.inaturalist.org) is an online community where people can record and share observations. We have been using iNaturalist in our group for student projects. It's proved a great way to teach how to collect and analyse data while the lab and field have been off-limits. To find a way to make data collection easier, I have been playing around with [iNaturalist's API](https://api.inaturalist.org/v1/docs/).
 
-It has been a long, dark winter for those of us under lockdown in the UK and to give myself something to look forward to, I decided to look into when we might expect to see the first Spring bulbs emerging.
+It has been a long, dark winter for those of us under lockdown in the UK and to give myself something to look forward to, I decided to look into when we might expect to see the first Spring bulbs emerging. 
 
 iNaturalist does have a [bulk download facility](https://www.inaturalist.org/observations/export), but you can't pull the data directly into R, and I want to filter the data by `term_id`, which is not an option when using the export facility.
 
@@ -45,17 +45,17 @@ get_obs <- function(max_id){
 	# an API call that has "id_above =" at the end
 	call <- paste("https://api.inaturalist.org/v1/observations?
 	              iconic_taxa=Plantae&term_id=12&term_value_id=13&place_id=6857
-	              &d1=2017-01-01&per_page=200&order_by=id&order=asc&id_above=",
+	              &d1=2017-01-01&per_page=200&order_by=id&order=asc&id_above=", 
 	              max_id, sep="")
-
+	 
 	# making the API call, parsing it to JSON and then flatten
 	GET(url = call) %>%
 	content(as = "text", encoding = "UTF-8") %>%
 	fromJSON(flatten = TRUE) -> get_call_json
-
+	 
 	# this grabs just the data we want and makes it a data frame
 	as.data.frame(get_call_json$results)
-
+	
 }
 ```
 
@@ -101,7 +101,7 @@ There are *a lot* of different variables! I'm interested in `observed_on`. Let's
 ```r
 thisisnotalist %>%
 	mutate(observed_on_date = as.Date(observed_on, "%Y-%m-%d"),
-	 day_of_year = as.numeric(strftime(observed_on_date,
+	 day_of_year = as.numeric(strftime(observed_on_date, 
 	 format = "%j")) ) -> flower_obs
 
 flower_obs %>%
@@ -111,7 +111,7 @@ flower_obs %>%
 	labs(x = "Day observed")
 ```
 
-<img src="index_files/figure-html/plot_date-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/plot_date-1.png" width="672" />
 
 The number of observations recorded has increased each year, probably due to iNaturalist gaining popularity. There are also many more observations in the summer months than in the winter. We can get a better look at this pattern plotting by month.
 
@@ -124,7 +124,7 @@ flower_obs %>%
 	labs(x= "Month observed")
 ```
 
-<img src="index_files/figure-html/plot_month-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/plot_month-1.png" width="672" />
 
 There's a peak in April with observations slowly dropping throughout the year. I didn't quite expect that. I would have assumed that observations of flowering plants would be relatively flat from April to August as different plants come into flower at different points throughout the spring and summer. Perhaps this is due to some kind of sampling bias in how people are recording observations. Let's have a look at which plants are the first to flower.
 
@@ -134,9 +134,9 @@ flower_obs %>%
 	group_by(taxon.name, taxon.preferred_common_name) %>%
 	summarise(median_day = median(day_of_year), n_obs = n()) %>%
 	ungroup() %>%
-	# filter to sp with more than 20 observations
+	# filter to sp with more than 20 observations 
 	# to make sure we get a representitive sample size
-	filter(n_obs > 20) %>%
+	filter(n_obs > 20) %>% 
 	slice_min(order_by = median_day, n = 15) %>%
 	knitr::kable()
 ```
@@ -170,31 +170,30 @@ I have to do some fiddling around here with dates to get the x axis labels how I
 library("lubridate")
 
 flower_obs %>%
-  filter(str_detect(taxon.name, "Narcissus") |
-           str_detect(taxon.name, "Iris") |
-           str_detect(taxon.name, "Crocus")|
+  filter(str_detect(taxon.name, "Narcissus") | 
+           str_detect(taxon.name, "Iris") | 
+           str_detect(taxon.name, "Crocus")| 
            str_detect(taxon.name, "Galanthus")|
            str_detect(taxon.name, "Hyacinthoides")|
-           str_detect(taxon.name, "Cyclamen")) %>%
+           str_detect(taxon.name, "Cyclamen")) %>% 
   separate(taxon.name, into = c("genus", "sp"), sep = " ") %>%
-  mutate(date = as.Date(paste(2020, strftime(observed_on, format = "%m-%d"),
-                              sep="-")) ) %>%
+  mutate(date = as.Date(paste(2020, strftime(observed_on, format = "%m-%d"), 
+                              sep="-")) ) %>% 
   mutate(week = floor_date(date, "week")) %>%
   ggplot(aes(x= week, fill = genus)) +
   geom_bar(position = "fill") +
   scale_x_date(date_breaks = "1 month",  expand = c(0,0),
                date_labels = "%B", limits = as.Date(c("2020-01-01", "2020-12-31"))) +
-  coord_polar() +
+  coord_polar() + 
   scale_fill_manual(
     values = c("#264653", "#2A9D8F", "#8AB17D",
                "#E9C46A", "#F4A261", "#E76F51")) +
-  theme_void(base_size = 9) +
-  theme(axis.text.x = element_text())
+  theme_void(base_size = 9)
 ```
 
-<img src="index_files/figure-html/plot_polar-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/plot_polar-1.png" width="672" />
 
-I feel like this is a really nice one to use `coord_polar()` for. You can see how the months blend into each other, without a break at Dec/Jan. _Narcissus_ flowering phenology is well represented here, you can see how it steadily increases to a peak and then dips down again.
+I feel like this is a really nice one to use `coord_polar()` for. You can see how the months blend into each other, without a break at Dec/Jan. _Narcissus_ flowering phenology is well represented here, you can see how it steadily increases to a peak and then dips down again. 
 
 But ok, what about if you live in Edinburgh, are you going to see Daffs on the same day as people in London? Maybe we can see how geography affects flowering observations.
 
@@ -216,15 +215,15 @@ flower_obs %>%
 	filter(str_detect(taxon.name, "Narcissus") & mappable == TRUE ) %>%
 	separate(location, into = c("lat", "long"), sep = ",") %>%
 	select("lat", "long", "day_of_year") %>%
-	st_as_sf(coords = c( "long","lat"),
+	st_as_sf(coords = c( "long","lat"), 
 		crs = 4326, agr = "constant")  -> geo_daff
 
 ggplot() +
 	geom_sf(data = uk_map, fill = "white") +
-	geom_sf(data = geo_daff, shape = 16, size = 1.5,
+	geom_sf(data = geo_daff, shape = 16, size = 1.5, 
 		colour = "#8AB17D") +
 	transition_states(as.factor(day_of_year),
-                    state_length = 3) +
+                    state_length = 3) + 
 	shadow_mark(past = TRUE, future = FALSE) +
 	ggtitle("Daffodils in flower\n
 		Day of the year: {closest_state}")
@@ -232,7 +231,7 @@ ggplot() +
 
 ![](index_files/figure-html/plot_map-1.gif)<!-- -->
 
-I was hoping we'd see some kind of wave with flowers appearing in the South first, but alas, maybe there's just not enough data. It looks pretty cool though 🤷
+I was hoping we'd see some kind of wave with flowers appearing in the South first, but alas, maybe there's just not enough data. It looks pretty cool though 🤷 
 
 Some reading for you:
 *	[Barve, V.V _et al._ Methods for broad‐scale plant phenology assessments using citizen scientists’ photographs. _Applications in Plant Sciences_ (2020)](https://doi.org/10.1002/aps3.11315)
