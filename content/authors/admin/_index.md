@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Eleanor E Jackson
+title: Eleanor Jackson
 
 # Username (this should match the folder name)
 authors:
@@ -72,7 +72,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I am a PhD student in the NERC Centre for Doctoral Training in Quantitative and Modelling Skills in Ecology and Evolution (QMEE). I am broadly interested in community ecology, the compexities of ecosystems and how they respond to change.  
-
-My current research focuses on the role of pre-dispersal insect seed predators in maintaining tropical plant diversity in Panama. I am using using long-term datasets of seed rain to model community dynamics and collecting information on individual plant species and their enemies in the field.
