@@ -15,6 +15,7 @@ image:
   focal_point: 'Center'
   preview_only: true
 projects: []
+share: true
 ---
 
 [iNaturalist](https://www.inaturalist.org) is an online community where people can record and share observations. We have been using iNaturalist in our group for student projects. It's proved a great way to teach how to collect and analyse data while the lab and field have been off-limits. To find a way to make data collection easier, I have been playing around with [iNaturalist's API](https://api.inaturalist.org/v1/docs/).

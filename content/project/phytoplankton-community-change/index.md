@@ -9,6 +9,7 @@ categories: []
 date: 2020-07-14T11:05:54+01:00
 draft: false
 weight: 30
+share: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -8,6 +8,7 @@ tags: ["Tropical ecology", "Community ecology", "Present"]
 categories: []
 date: 2020-08-19T12:25:32+01:00
 weight: 10
+share: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
