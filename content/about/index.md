@@ -13,7 +13,7 @@ My current research focuses on the role of pre-dispersal insect seed predators i
 
 My previous research has seen me experimentally evolving phytoplankton in the field and extracting bacterial DNA in the lab.
 
-
+<br>
 <div class = "row">
 <div class = "col-md-6">
 <b>Interests</b>
@@ -21,6 +21,7 @@ My previous research has seen me experimentally evolving phytoplankton in the fi
 <li>Evolutionary ecology</li>
 <li>Global change</li>
 <li>Data analysis & visualisation</li>
+<br>
 </div>
 
 <div class = "col-md-6">
