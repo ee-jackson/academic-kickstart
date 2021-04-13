@@ -20,7 +20,7 @@
 <!-- About widget -->
 <div class="row">
   <div class="container centered">
-    <div id="profile"> <br><br>
+    <div id="profile"> <br>
 
       {{ if site.Params.avatar.gravatar }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}">
@@ -61,7 +61,7 @@
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
           </a>
-        <br><br><br><br><br></li>
+        <br><br><br><br><br><br></li>
         {{ end }}
       </ul>
 
