@@ -2,8 +2,8 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = ""
-#google_fonts = "Roboto+Mono|IBM+Plex+Mono:400italic,500italic|Roboto:400"
+#google_fonts = ""
+google_fonts = "Roboto+Mono|IBM+Plex+Mono:400italic,500italic|Roboto:400"
 
 # Font families
 heading_font = "IBM Plex Mono"
