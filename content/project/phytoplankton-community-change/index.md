@@ -4,7 +4,7 @@
 title: "Adaptive potential of phytoplankton in a changing world"
 summary: ""
 authors: ["admin"]
-tags: ["Community ecology", "Evolution", "Metabolic theory", "Past"]
+tags: ["Community ecology", "Evolution", "Metabolic theory", "Microbial ecology", "Past"]
 categories: []
 date: 2020-07-14T11:05:54+01:00
 draft: false
@@ -18,7 +18,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Phytoplankton from an experimentaly heated pond in October 2015"
+  caption: "Phytoplankton from an experimentally heated pond in October 2015"
   focal_point: "Bottom"
   preview_only: false
 
@@ -43,9 +43,9 @@ url_video: ""
 slides: ""
 ---
 
-Phytoplankton are the foundation of aquatic food-webs and contribute to 50% of global primary production. In a rapidly changing climate, we expect phytoplankton to adapt and change, with repercussions for aquatic ecosystems.
+[Phytoplankton](https://en.wikipedia.org/wiki/Phytoplankton) are the foundation of aquatic food-webs and contribute to 50% of global [primary production](https://en.wikipedia.org/wiki/Primary_production). In a rapidly changing climate, we expect phytoplankton to adapt and change, with repercussions for aquatic ecosystems.
 
-During my undergraduate degree, I worked with Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), to disentangle the roles of ecology, physiology and evolutionary history, in the adaption of phytoplankton to environmental change.
+During my undergraduate degree, and later as a research assistant, I worked with Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), to disentangle the roles of ecology, physiology and evolutionary history, in the adaption of phytoplankton to environmental change.
 
 Further reading:
 *	[Bestion, E. _et al._ Metabolic traits predict the effects of warming on phytoplankton competition. _Ecology Letters_ (2018)]( https://doi.org/10.1111/ele.12932)

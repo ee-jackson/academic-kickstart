@@ -43,11 +43,11 @@ url_video: ""
 slides: ""
 ---
 
-Chytridiomycosis, a fatal skin disease caused by the fungal pathogen _Batrachochytrium dendrobatidis_, is responsible for widespread declines and extinctions of amphibian species.
+[Chytridiomycosis](https://en.wikipedia.org/wiki/Chytridiomycosis), a fatal skin disease caused by the fungal pathogen [_Batrachochytrium dendrobatidis_](https://en.wikipedia.org/wiki/Batrachochytrium_dendrobatidis), is responsible for widespread declines and extinctions of amphibian species.
 
-Bacterial communities associated with multicellular hosts (microbiomes) are well documented for their vital role in maintaining host health. Commensal bacteria resident on amphibian skin can inhibit the growth of _Batrachochytrium dendrobatidis_, and in doing so confer survival benefits to the host, suggesting that there may be a way to use probiotic therapy as a conservation strategy to mitigate the loss of amphibian species.
+Bacterial communities associated with multicellular hosts ([microbiomes](https://en.wikipedia.org/wiki/Microbiome)) are well documented for their vital role in maintaining host health. Commensal bacteria resident on amphibian skin can inhibit the growth of _Batrachochytrium dendrobatidis_, and in doing so confer survival benefits to the host, suggesting that there may be a way to use probiotic therapy as a conservation strategy to mitigate the loss of amphibian species.
 
-During my Master's program, I worked with Xavier Harrison and Kieran Bates at the Zoological Society of London, to identify potential candidates for probiotic inoculation. I isolated and identified bacteria from the amphibian microbiome using 16s rRNA sequencing. Using a culture-based method, I then assessed the inhibitory capabilities of isolates against the fungal pathogen _Batrachochytrium dendrobatidis_.
+During my Master's degree, I worked with Xavier Harrison and Kieran Bates at the [Zoological Society of London](https://www.zsl.org/science), to identify potential candidates for probiotic inoculation. I isolated and identified bacteria from the amphibian microbiome using 16s rRNA sequencing. Using a culture-based method, I then assessed the inhibitory capabilities of isolates against the fungal pathogen _Batrachochytrium dendrobatidis_.
 
 Further reading:
 *	[Bates, K.A. _et al._ Amphibian chytridiomycosis outbreak dynamics are linked with host skin bacterial community structure. _Nature Communications_ (2018)](https://doi.org/10.1038/s41467-018-02967-w)

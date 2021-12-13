@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Variability in Herbivory"
+title: "Variability in herbivory"
 summary: ""
 authors: ["admin"]
-tags: ["Community ecology", "Present"]
+tags: ["Community ecology", "Plant-insect interactions", "Present"]
 categories: []
 date: 2020-07-14T10:56:58+01:00
 draft: false
