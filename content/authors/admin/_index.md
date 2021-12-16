@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Ecology PhD student
 
 # Organizations/Affiliations
 organizations:
