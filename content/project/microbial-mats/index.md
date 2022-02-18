@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Microbial mat community assembly in Antarctica"
-summary: ""
+summary: "Each summer, the McMurdo Ice Shelf in Antarctica becomes littered with ponds, as ice and snow thaw, and pool in depressions on its surface. Variable amounts of trapped marine sediments and salt are released, meaning that ponds located within a few meters of each other can be at opposite ends of the scale in terms of salinity and pH."
 authors: ["admin"]
 tags: ["Community ecology", "Microbial ecology", "Past"]
 categories: []
@@ -18,9 +18,9 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Collecting samples on the McMurdo Ice Shelf. Image credit - Anne Jungblut"
+  caption: ""
   focal_point: "TopRight"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -42,6 +42,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<figure>
+  <img src="featured.jpg" width = "800">
+  <figcaption>Collecting samples on the McMurdo Ice Shelf. Photo: Anne Jungblut</figcaption>
+</figure>
 
 Each summer, the McMurdo Ice Shelf in Antarctica becomes littered with ponds, as ice and snow thaw, and pool in depressions on its surface. Variable amounts of trapped marine sediments and salt are released, meaning that ponds located within a few meters of each other can be at opposite ends of the scale in terms of salinity and pH. The meltwater ponds are colonised by [microbial mats](https://en.wikipedia.org/wiki/Microbial_mat) - stratified assemblages of microbial organisms which accumulate slowly and can survive winter freezing.
 

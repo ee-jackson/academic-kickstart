@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Conspecific negative density dependence in a temperate forest"
-summary: ""
+summary: "Enemy-driven CNDD has been studied extensively in tropical forests, but does this also happen in temperate forests, and to what extent?"
 authors: ["admin"]
 tags: ["Community ecology", "Plant-insect interactions", "Present"]
 categories: []
@@ -17,9 +17,9 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "_Crataegus monogyna_ in Wytham woods"
+  caption: ""
   focal_point: "Top"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -41,6 +41,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<figure>
+  <img src="featured.jpg" width = "800">
+  <figcaption><i>Crataegus monogyna</i> in Wytham woods. Panels on the right show immature and mature fruits.</figcaption>
+</figure>
 
 Conspecific negative density dependence (CNDD) is a mechanism which works to maintain high plant biodiversity and can be described as a reduction in establishment, survival, and/or growth rates when conspecific densities are high. This is often due to host-specific plant enemies, such as insect herbivores and fungal pathogens, occurring in high densities at their host plant species. The [Janzen-Connell hypothesis](https://en.wikipedia.org/wiki/Janzen–Connell_hypothesis) proposes that enemy-driven CNDD is what maintains the hyperdiversity of tree species in tropical forests.
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Adaptive potential of phytoplankton in a changing world"
-summary: ""
+summary: "Phytoplankton are the foundation of aquatic food-webs and contribute to 50% of global primary production. In a rapidly changing climate, we expect phytoplankton to adapt and change, with repercussions for aquatic ecosystems."
 authors: ["admin"]
 tags: ["Community ecology", "Evolution", "Metabolic theory", "Microbial ecology", "Past"]
 categories: []
@@ -18,9 +18,9 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Phytoplankton from an experimentally heated pond in October 2015"
+  caption: ""
   focal_point: "Bottom"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -42,6 +42,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<figure>
+  <img src="featured.jpg" width = "800">
+  <figcaption>Phytoplankton from an experimentally heated mesocosm in October 2015</figcaption>
+</figure>
 
 [Phytoplankton](https://en.wikipedia.org/wiki/Phytoplankton) are the foundation of aquatic food-webs and contribute to 50% of global [primary production](https://en.wikipedia.org/wiki/Primary_production). In a rapidly changing climate, we expect phytoplankton to adapt and change, with repercussions for aquatic ecosystems.
 

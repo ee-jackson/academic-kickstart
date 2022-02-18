@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Seed natural enemies and tropical forest diversity"
-summary: ""
+summary: "The high local species richness in tropical forests poses a challenge to general ecological theory, where competition for resources limits local alpha diversity through competitive exclusion. "
 authors: ["admin"]
 tags: ["Tropical ecology", "Community ecology", "Plant-insect interactions", "Present"]
 categories: []
@@ -17,9 +17,9 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Pre-dispersal seed predators. Christian Ziegler, STRI"
+  caption: ""
   focal_point: "Center"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -41,6 +41,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<figure>
+  <img src="featured.jpg" width = "800">
+  <figcaption>Pre-dispersal seed predators from Barro Colorado Island</figcaption>
+</figure>
 
 The high local species richness in tropical forests poses a challenge to [general ecological theory](https://en.wikipedia.org/wiki/Competitive_exclusion_principle), where competition for resources limits local alpha diversity through competitive exclusion. The [Janzen-Connell hypothesis](https://en.wikipedia.org/wiki/Janzen–Connell_hypothesis) proposes that coexistence is achieved through the role of specialist plant enemies, which reduce recruitment close to reproductive adults of the same species and in areas of high conspecific density.
 

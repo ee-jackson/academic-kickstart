@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Variability in herbivory"
-summary: ""
+summary: "Interactions between plants and their insect herbivores are one of the most studied types of ecological interactions. Multiple studies have identified huge variability in herbivory across different levels of biological organisation."
 authors: ["admin"]
 tags: ["Community ecology", "Plant-insect interactions", "Present"]
 categories: []
@@ -19,7 +19,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: "TopRight"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -41,6 +41,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<figure>
+  <img src="featured.JPG" width = "800">
+  <figcaption>Leaf miner tracks on a Cherry tree</figcaption>
+</figure>
 
 Interactions between plants and their insect herbivores are one of the most studied types of ecological interactions. Multiple studies have identified huge variability in herbivory across different levels of biological organisation. A small fraction of plants can experience disproportionately high levels of herbivore damage, whilst the majority experience relatively low levels. Despite the potential ecological and evolutionary consequences of such variability, we still cannot explain why these patterns emerge so frequently in nature.
 
