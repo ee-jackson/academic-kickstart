@@ -3,7 +3,7 @@
 
 title: "Microbial pond life in an icy desert"
 subtitle: ""
-summary: ""
+summary: "The McMurdo Ice Shelf in Antartica forms a 50m thick undulating surface of ice floating on the sea. Annual summer thawing of ice and snow causes the formation of thousands of ponds in depressions on the ice."
 authors: ["admin"]
 tags: ["Community ecology", "Microbial ecology"]
 categories: ["Behind the paper"]
@@ -17,9 +17,9 @@ share: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "The McMurdo Ice Shelf, image credit - Anne Jungblut"
+  caption: ""
   focal_point: "Center"
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -32,6 +32,11 @@ links:
 - name: Paper
   url: ../../publication/jackson-16-srrna-gene-2021
 ---
+
+<figure>
+  <img src="featured.jpg" width = "800">
+  <figcaption>The McMurdo Ice Shelf. Photo: Anne Jungblut</figcaption>
+</figure>
 
 The second of my 16-week research projects undertaken as a part of my MRes was based at the Natural History Museum (NHM), London. I was working with samples of microbial mat communities from meltwater ponds in Antartica, arguably one of the weirdest habitats on earth.
 
