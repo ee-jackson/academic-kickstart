@@ -24,3 +24,21 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "https://ee-jackson.netlify.app/"
+  to = "https://www.eleanor-jackson.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://ee-jackson.com/"
+  to = "https://www.eleanor-jackson.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.ee-jackson.com/"
+  to = "https://www.eleanor-jackson.com/"
+  status = 301
+  force = true
