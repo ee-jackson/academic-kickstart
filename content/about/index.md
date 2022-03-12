@@ -1,5 +1,5 @@
 ---
-title: "Hi,"
+title: ""
 subtitle: ""
 summary: ""
 featured: false
@@ -7,9 +7,13 @@ draft: false
 share: false
 ---
 
-I am a PhD student in the NERC Centre for Doctoral Training in Quantitative and Modelling Skills in Ecology and Evolution (QMEE). I am broadly interested in community ecology, the complexities of ecosystems and how they respond to change.  
+ <img src=honduras-2014.jpg   width=300 align = center>
 
-My current research focuses on the role of pre-dispersal insect seed predators in maintaining tropical plant diversity in Panama. I am using long-term datasets of seed rain to model community dynamics and collecting information on individual plant species and their enemies in the field.
+## About me
+
+I am a doctoral researcher at the [University of Reading](https://www.reading.ac.uk), funded by the [NERC Centre for Doctoral Training in Quantitative and Modelling Skills in Ecology and Evolution (QMEE)](https://www.ukri.org/councils/nerc/career-and-skills-development/nerc-studentships/directed-training/centres-for-doctoral-training-cdt/centre-for-doctoral-training-in-modelling-and-quantitative-skills-in-ecology-and-evolution/). I am broadly interested in community ecology; the complex interactions between species, how populations can adapt and respond to change, and the resulting impacts on community structure and function.
+
+My current research focuses on the role of pre-dispersal insect seed predators in maintaining plant community diversity. I am using long-term datasets of seed rain to model community dynamics and collecting information on individual plant species and their enemies in the field.
 
 My previous research has seen me experimentally evolving phytoplankton in mesocosms, culturing bacteria from amphibian microbiomes and sequencing DNA from meltwater ponds in Antarctica.
 
@@ -18,9 +22,9 @@ My previous research has seen me experimentally evolving phytoplankton in mesoco
 <div class = "col-md-6">
 <b>Interests</b>
 <li>Community ecology</li>
+<li>Quantitative ecology</li>
 <li>Evolutionary ecology</li>
 <li>Global change</li>
-<li>Data analysis & visualisation</li>
 <br>
 </div>
 
@@ -35,5 +39,3 @@ My previous research has seen me experimentally evolving phytoplankton in mesoco
 </div>
 </div>
 
-
-[![life_in_months](life_in_months_flip.png)](https://github.com/ee-jackson/mylifeinmonths)
