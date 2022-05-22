@@ -3,7 +3,7 @@
 
 title: "ForestGEO spotlight series interview"
 subtitle: ""
-summary: "ForestGEO interviewed me for their spotlight series blog. We talk about about my career and working with forest dynamic plots."
+summary: "ForestGEO interviewed me for their spotlight series blog. We talk about my career and working with forest dynamic plots."
 authors: ["admin"]
 tags: []
 categories: []
