@@ -1,5 +1,5 @@
 ---
-title: "16S rRNA Gene and 18S rRNA Gene Diversity in Microbial Mat Communities in Meltwater Ponds on the McMurdo Ice Shelf, Antarctica"
+title: "16S rRNA gene and 18S rRNA gene diversity in microbial mat communities in meltwater ponds on the McMurdo Ice Shelf, Antarctica"
 date: 2021-03-01
 publishDate: 2021-03-19T08:34:54.355975Z
 authors: ["Eleanor E. Jackson", "Ian Hawes", "Anne D. Jungblut"]
