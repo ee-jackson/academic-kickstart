@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Adaptive potential of phytoplankton in a changing world"
-summary: "Disentangling the roles of ecology, physiology and evolution in the adaption of phytoplankton to environmental change."
+summary: "Disentangling the roles of ecology, physiology and evolution in the adaptation of phytoplankton to environmental change."
 authors: ["admin"]
 tags: ["Community ecology", "Evolutionary ecology", "Microbial ecology", "Past"]
 categories: []
@@ -50,4 +50,4 @@ slides: ""
 
 [Phytoplankton](https://en.wikipedia.org/wiki/Phytoplankton) are the foundation of aquatic food-webs and contribute to 50% of global [primary production](https://en.wikipedia.org/wiki/Primary_production). In a rapidly changing climate, we expect phytoplankton to adapt and change, with repercussions for aquatic ecosystems.
 
-During my undergraduate degree, and later as a research assistant, I worked with Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), to disentangle the roles of ecology, physiology and evolutionary history in the adaption of phytoplankton to environmental change.
+During my undergraduate degree, and later as a research assistant, I worked with Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), to disentangle the roles of ecology, physiology and evolutionary history in the adaptation of phytoplankton to environmental change.

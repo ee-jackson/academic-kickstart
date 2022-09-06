@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Seed natural enemies and tropical forest diversity"
-summary: "Do pre-dispersal seed predators help to maintain plant biodiversity in a tropical forest?"
+summary: "Investigating the role of pre-dispersal seed predation in the maintenance of tropical plant biodiversity."
 authors: ["admin"]
 tags: ["Community ecology", "Plant-insect interactions", "Forest ecology", "Tropical ecology", "Present"]
 categories: []

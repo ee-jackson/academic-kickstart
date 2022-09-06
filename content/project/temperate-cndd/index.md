@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Conspecific negative density dependence in a temperate forest"
-summary: "Enemy-driven CNDD has been studied extensively in tropical forests, but does this also happen in temperate forests, and to what extent?"
+summary: "Exploring how plant-insect interactions could shape the spatial distribution of trees in a UK woodland."
 authors: ["admin"]
 tags: ["Community ecology", "Plant-insect interactions", "Forest ecology", "Present"]
 categories: []

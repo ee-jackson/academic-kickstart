@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Variability in herbivory"
-summary: "How and why do patterns in plant–herbivore interactions vary across the tree of life and around the world?"
+summary: "Understanding how and why patterns in plant–herbivore interactions vary across the tree of life and around the world."
 authors: ["admin"]
 tags: ["Community ecology", "Plant-insect interactions", "Present"]
 categories: []

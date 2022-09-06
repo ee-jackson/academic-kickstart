@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Microbial mat community assembly in Antarctica"
-summary: "Does environmental filtering play a role in the assembly of microbial mat communities?"
+summary: "This project explored how extreme environments can shape communities and whether environmental filtering plays a role in the assembly of microbial mat communities."
 authors: ["admin"]
 tags: ["Community ecology", "Microbial ecology", "Past"]
 categories: []

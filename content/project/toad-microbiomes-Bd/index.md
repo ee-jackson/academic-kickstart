@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Toad microbiomes as a defence against pathogenic attack"
-summary: "Can host-associated microbes provide protection against infection?"
+summary: "Culturing bacteria with the potential to protect against Chytridiomycosis infection."
 authors: ["admin"]
 tags: ["Community ecology", "Microbial ecology", "Past"]
 categories: []
