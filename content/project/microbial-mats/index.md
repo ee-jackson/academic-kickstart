@@ -4,7 +4,7 @@
 title: "Microbial mat community assembly in Antarctica"
 summary: "Does environmental filtering play a role in the assembly of microbial mat communities?"
 authors: ["admin"]
-tags: ["Community ecology", "Microbial ecology", "Freshwater ecology", "Past"]
+tags: ["Community ecology", "Microbial ecology", "Past"]
 categories: []
 date: 2020-07-14T10:56:58+01:00
 draft: false

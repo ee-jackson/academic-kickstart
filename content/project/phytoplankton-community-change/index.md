@@ -4,7 +4,7 @@
 title: "Adaptive potential of phytoplankton in a changing world"
 summary: "Disentangling the roles of ecology, physiology and evolution in the adaption of phytoplankton to environmental change."
 authors: ["admin"]
-tags: ["Community ecology", "Evolutionary ecology", "Microbial ecology", "Freshwater ecology", "Past"]
+tags: ["Community ecology", "Evolutionary ecology", "Microbial ecology", "Past"]
 categories: []
 date: 2020-07-14T11:05:54+01:00
 draft: false
