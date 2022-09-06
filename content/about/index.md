@@ -17,6 +17,8 @@ My current research focuses on the role of pre-dispersal insect seed predators i
 
 My previous research has seen me experimentally evolving phytoplankton in mesocosms, culturing bacteria from amphibian microbiomes and sequencing DNA from meltwater ponds in Antarctica.
 
+I care about open and reproducible research practices. I serve on the media committee for the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)](https://www.sortee.org) and am an [Open Research Champion](https://research.reading.ac.uk/open-research-champions/) at my University.
+
 <br>
 <div class = "row">
 <div class = "col-md-6">
@@ -24,7 +26,6 @@ My previous research has seen me experimentally evolving phytoplankton in mesoco
 <li>Community ecology</li>
 <li>Quantitative ecology</li>
 <li>Evolutionary ecology</li>
-<li>Global change</li>
 <br>
 </div>
 
