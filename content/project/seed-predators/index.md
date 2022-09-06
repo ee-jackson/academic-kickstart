@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Seed natural enemies and tropical forest diversity"
-summary: "The high local species richness in tropical forests poses a challenge to general ecological theory, where competition for resources limits local alpha diversity through competitive exclusion. "
+summary: "Do pre-dispersal seed predators help to maintain plant biodiversity in a tropical forest?"
 authors: ["admin"]
-tags: ["Tropical ecology", "Community ecology", "Plant-insect interactions", "Present"]
+tags: ["Community ecology", "Plant-insect interactions", "Forest ecology", "Tropical ecology", "Present"]
 categories: []
 date: 2020-08-19T12:25:32+01:00
 weight: 10
@@ -51,15 +51,4 @@ The high local species richness in tropical forests poses a challenge to [genera
 
 The role of natural enemies in structuring and maintaining plant diversity in tropical forests is being increasingly recognised. To date, research has focused almost exclusively on enemies attacking seeds after dispersal from the parent plant. However, we don't know much about the fate of seeds that are still developing and attached to the parent plant. Pre-dispersal seed predation could cause a reduction in the number of seeds that are successfully dispersed, with unknown consequences for plant diversity maintenance. 
 
-Working with [Joe Wright](https://stri.si.edu/scientist/s-joseph-wright) at the Smithsonian Tropical Research Institute and my PhD supervisors [Sofia Gripenberg](https://www.reading.ac.uk/biologicalsciences/s-gripenberg.aspx), [James Bullock](https://www.ceh.ac.uk/staff/james-bullock) & [Tom Oliver](https://www.reading.ac.uk/biologicalsciences/about/staff/t-oliver.aspx), I am using a long term dataset of seed rain from Barro Colorado Island, Panama, to investigate:
-
-1. The link between observed high levels of premature fruit abscission and pre-dispersal enemy attack
-2. Spatial, temporal and community-level variation in rates of pre-dispersal seed mortality
-3. The fitness consequences of pre-dispersal insect seed predation for individual trees
-4. The potential implications of observed patterns on species co-existence at the plant community level
-
-
-Further reading:
-*	[Gripenberg, S. Do pre-dispersal insect seed predators contribute to maintaining tropical forest plant diversity? _Biotropica_ (2018)]( https://doi.org/10.1111/btp.12602)
-*	[Jones, F. & Comita, L. Density-dependent pre-dispersal seed predation and fruit set in a tropical tree. _Oikos_ (2010)](https://doi.org/10.1111/j.1600-0706.2010.18547.x)
-*	[Levi, T. _et al._ Tropical forests can maintain hyperdiversity because of enemies. _PNAS_ (2019)](https://doi.org/10.1073/pnas.1813211116)
+In collaboration with Joe Wright at the Smithsonian Tropical Research Institute and my PhD supervisors Sofia Gripenberg, James Bullock & Tom Oliver, I am using a long term dataset of seed rain from Barro Colorado Island, Panama, to investigate the role of pre-dispersal seed predation in plant diversity maintenance.

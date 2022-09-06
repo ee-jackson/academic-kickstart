@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Adaptive potential of phytoplankton in a changing world"
-summary: "Phytoplankton are the foundation of aquatic food-webs and contribute to 50% of global primary production. In a rapidly changing climate, we expect phytoplankton to adapt and change, with repercussions for aquatic ecosystems."
+summary: "Disentangling the roles of ecology, physiology and evolution in the adaption of phytoplankton to environmental change."
 authors: ["admin"]
-tags: ["Community ecology", "Evolution", "Metabolic theory", "Microbial ecology", "Past"]
+tags: ["Community ecology", "Evolutionary ecology", "Microbial ecology", "Freshwater ecology", "Past"]
 categories: []
 date: 2020-07-14T11:05:54+01:00
 draft: false
@@ -50,11 +50,4 @@ slides: ""
 
 [Phytoplankton](https://en.wikipedia.org/wiki/Phytoplankton) are the foundation of aquatic food-webs and contribute to 50% of global [primary production](https://en.wikipedia.org/wiki/Primary_production). In a rapidly changing climate, we expect phytoplankton to adapt and change, with repercussions for aquatic ecosystems.
 
-During my undergraduate degree, and later as a research assistant, I worked with Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), to disentangle the roles of ecology, physiology and evolutionary history, in the adaption of phytoplankton to environmental change.
-
-Further reading:
-*	[Bestion, E. _et al._ Metabolic traits predict the effects of warming on phytoplankton competition. _Ecology Letters_ (2018)]( https://doi.org/10.1111/ele.12932)
-*	[Schaum, C-E. _et al._ Adaptation of phytoplankton to a decade of experimental warming linked to increased photosynthesis. _Nat Ecol Evol_ (2017)](https://doi.org/10.1038/s41559-017-0094)
-*	[Yvon-Durocher, G. _et al._ Long-term warming amplifies shifts in the carbon cycle of experimental ponds. _Nature Climate Change_ (2017)](https://doi.org/10.1038/nclimate3229)
-*	[Padﬁeld, D. _et al._ Rapid evolution of metabolic traits explains thermal adaptation in phytoplankton. _Ecology Letters_ (2016)](https://doi.org/10.1111/ele.12545)
-*	 [Yvon-Durocher, G. _et al._ Five years of experimental warming increases the biodiversity and productivity of phytoplankton. _PLOS Biology_ (2015)](https://doi.org/10.1371/journal.pbio.1002324)
+During my undergraduate degree, and later as a research assistant, I worked with Gabriel Yvon-Durocher (University of Exeter) and Elisa Schaum (University of Hamburg), to disentangle the roles of ecology, physiology and evolutionary history in the adaption of phytoplankton to environmental change.

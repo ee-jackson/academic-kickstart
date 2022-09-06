@@ -4,7 +4,7 @@
 title: "Conspecific negative density dependence in a temperate forest"
 summary: "Enemy-driven CNDD has been studied extensively in tropical forests, but does this also happen in temperate forests, and to what extent?"
 authors: ["admin"]
-tags: ["Community ecology", "Plant-insect interactions", "Present"]
+tags: ["Community ecology", "Plant-insect interactions", "Forest ecology", "Present"]
 categories: []
 date: 2021-12-13
 weight: 5
@@ -49,10 +49,4 @@ slides: ""
 
 Conspecific negative density dependence (CNDD) is a mechanism which works to maintain high plant biodiversity and can be described as a reduction in establishment, survival, and/or growth rates when conspecific densities are high. This is often due to host-specific plant enemies, such as insect herbivores and fungal pathogens, occurring in high densities at their host plant species. The [Janzen-Connell hypothesis](https://en.wikipedia.org/wiki/Janzen–Connell_hypothesis) proposes that enemy-driven CNDD is what maintains the hyperdiversity of tree species in tropical forests.
 
-Enemy-driven CNDD has been studied extensively in tropical forests, but does this also happen in temperate forests, and to what extent? With [Sofia Gripenberg](https://www.reading.ac.uk/biologicalsciences/s-gripenberg.aspx), my PhD supervisor, we are establishing a new study system in [Wytham Woods](https://www.wythamwoods.ox.ac.uk), Oxfordshire, which will parallel <a href="https://www.eleanor-jackson.com/project/seed-predators/" target="_self">our work in Panama</a>. We are particularly interested in the role of pre-dispersal seed enemies in causing CNDD and have been monitoring premature fruit drop in _Crataegus monogyna_ in relation to the spatial distribution of individual trees. We are also rearing insects from fruits and seeds collected at Wytham to build a food web of internally feeding seed predators, which will enable us to determine the host-specificity of these plant enemies at Wytham.
-
-
-Further reading:
-*	[Packer, A. & Clay, K. Soil pathogens and spatial patterns of seedling mortality in a temperate tree. _Nature_ (2000)](https://doi.org/10.1038/35005072)
-* [Johnson, D. _et al._ Conspecific negative density dependence and forest diversity. _Science_ (2012)](https://www.science.org/doi/10.1126/science.1220269)
-* [Ramage, B.S. &  Mangana, I.J. Conspecific negative density dependence in American beech. _Forest Ecosystems_ (2017)](https://doi.org/10.1186/s40663-017-0094-y)
+Enemy-driven CNDD has been studied extensively in tropical forests, but does this also happen in temperate forests, and to what extent? With Sofia Gripenberg, I am establishing a new study system in [Wytham Woods](https://www.wythamwoods.ox.ac.uk), Oxfordshire, which will parallel <a href="https://www.eleanor-jackson.com/project/seed-predators/" target="_self">our work in Panama</a>. We are particularly interested in the role of pre-dispersal seed enemies in causing CNDD and have been monitoring premature fruit drop in _Crataegus monogyna_ in relation to the spatial distribution of individual trees. We are also rearing insects from fruits and seeds collected at Wytham to build a food web of internally feeding seed predators, which will enable us to determine the host-specificity of these plant enemies at Wytham.

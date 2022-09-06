@@ -5,7 +5,7 @@ title: "Why do trees abort their offspring, and what are the effects on biodiver
 subtitle: ""
 summary: "Walking around a tropical forest it is not uncommon to come across unripened fruits on the floor. Trees will often abort the development of their offspring if deemed unlikely to reach adulthood as a plant, allowing them to fall and die."
 authors: ["admin"]
-tags: ["Community ecology", "Tropical ecology", "Plant-insect interactions"]
+tags: ["Community ecology", "Tropical ecology", "Forest ecology", "Plant-insect interactions"]
 categories: ["Behind the paper"]
 date: 2022-02-16
 lastmod:

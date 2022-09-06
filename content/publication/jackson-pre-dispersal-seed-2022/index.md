@@ -17,7 +17,7 @@ doi: "10.1111/1365-2745.13867"
 url_pdf: https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.13867?download=false
 url_code: https://github.com/ee-jackson/premature-fruit-drop
 url_dataset: https://doi.org/10.5061/dryad.4mw6m909j
-tags: ["Community ecology", "Tropical ecology", "Plant-insect interactions"]
+tags: ["Community ecology", "Plant-insect interactions", "Forest ecology", "Tropical ecology"]
 projects: [seed-predators]
 ---
 

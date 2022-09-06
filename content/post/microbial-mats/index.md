@@ -5,7 +5,7 @@ title: "Microbial pond life in an icy desert"
 subtitle: ""
 summary: "The McMurdo Ice Shelf in Antarctica forms a 50m thick undulating surface of ice floating on the sea. Annual summer thawing of ice and snow causes the formation of thousands of ponds in depressions on the ice."
 authors: ["admin"]
-tags: ["Community ecology", "Microbial ecology"]
+tags: ["Community ecology", "Microbial ecology", "Freshwater ecology"]
 categories: ["Behind the paper"]
 date: 2021-03-26T16:47:09+01:00
 lastmod: 2021-03-26T16:47:09+01:00

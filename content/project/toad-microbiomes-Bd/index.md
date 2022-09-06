@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Toad microbiomes as a defence against pathogenic attack"
-summary: "Chytridiomycosis, a fatal skin disease caused by the fungal pathogen _Batrachochytrium dendrobatidis (Bd)_, is responsible for widespread declines and extinctions of amphibian species."
+summary: "Can host-associated microbes provide protection against infection?"
 authors: ["admin"]
-tags: ["Community ecology", "Microbial ecology", "Conservation", "Past"]
+tags: ["Community ecology", "Microbial ecology", "Past"]
 categories: []
 date: 2020-07-14T10:58:15+01:00
 draft: false
@@ -52,7 +52,4 @@ slides: ""
 
 Bacterial communities associated with multicellular hosts [(microbiomes)](https://en.wikipedia.org/wiki/Microbiome) are well documented for their vital role in maintaining host health. Commensal bacteria resident on amphibian skin can inhibit the growth of _Bd_, and in doing so confer survival benefits to the host, suggesting that there may be a way to use probiotic therapy as a conservation strategy to mitigate the loss of amphibian species.
 
-During my Master's degree, I worked with Xavier Harrison and Kieran Bates at the [Zoological Society of London](https://www.zsl.org/science), to identify potential candidates for probiotic inoculation. I isolated and identified bacteria from the amphibian microbiome using 16s rRNA sequencing. Using a culture-based method, I then assessed the inhibitory capabilities of isolates against _Bd_.
-
-Further reading:
-*	[Bates, K.A. _et al._ Amphibian chytridiomycosis outbreak dynamics are linked with host skin bacterial community structure. _Nature Communications_ (2018)](https://doi.org/10.1038/s41467-018-02967-w)
+During my Master's degree, I worked with Xavier Harrison and Kieran Bates at the Zoological Society of London, to identify potential candidates for probiotic inoculation. I isolated and identified bacteria from the amphibian microbiome using 16S rRNA sequencing. Using a culture-based method, I then assessed the inhibitory capabilities of isolates against _Bd_.

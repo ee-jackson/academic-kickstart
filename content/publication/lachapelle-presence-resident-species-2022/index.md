@@ -12,7 +12,7 @@ url_pdf: https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.1220
 url_code: https://doi.org/10.5281/zenodo.6884040
 url_dataset: https://doi.org/10.5281/zenodo.6884040
 url_preprint: https://doi.org/10.1101/2020.05.19.103978
-tags: ["Evolution", "Community ecology", "Metabolic theory"]
+tags: ["Community ecology", "Evolutionary ecology", "Microbial ecology", "Freshwater ecology"]
 projects: [phytoplankton-community-change]
 ---
 
